@@ -1,0 +1,13 @@
+contents:
+      - section: "Character Creation"
+        contents:
+          - "Deities.qmd"
+      - section: "Kaldaria"
+        contents: 
+          - "Veridia.qmd"
+      - section: "Hjelld"
+        contents: 
+          - "The Phantasm Forest.qmd"
+      - section: "Adventures"
+        contents:
+          - "The Funnel.qmd"

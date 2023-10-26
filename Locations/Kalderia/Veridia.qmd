@@ -1,0 +1,66 @@
+---
+title: "Veridia"
+---
+
+::: {.callout-note}
+## Welcome to Veridia!
+
+Welcome to Veridia, a small city nestled in the highland cliffs and ancient woodlands of Kaldaria. Here, the heart of the town resonates with the harmonious blend of artistic mastery and the pursuit of knowledge. Veridia is renowned for its flourishing clay industry, where skilled artisans mold the rich earth into exquisite pottery and intricate sculptures. Travelers from all over go out of their way to tour the gorgeous architecture of the Academic college. Enveloped by lush gardens, and featuring magnificent sculptures, the college's architecture beckons scholars and inquisitive minds. Within its walls scholars of all creeds delve deep into the secrets of the world.
+The marketplace bustles with the vibrant colors of imported wares and textiles, while the town square becomes a stage for festivals that honor art and the spirit of creativity. Yet, beneath this tranquil exterior, a world of mysteries awaits within the woods and cliffs that surround the city, enticing adventurers and explorers.
+At the top of the highest cliff of the surrounding hills is a magical spring that flows into and endows the river moving through the valley with minor constitution fortifying properties. The sick and elderly will make pilgrimages up the stream that feeds into the river to drink from falls closer to the source in hopes of curing their ailments. However those that journey higher up the mountain seldom make it to the summit.
+It is rumored that atop the mountain sleeps a shimmering frog-like beast who's life stretches back to when the mountains were young. Those who claim to have met this beast say that it spoke to them of these ancient times and explained secrets of the world. Many university students, enthralled by this legend, attempt the journey, but seldom make it even a fraction of the way up as the path is beset by hazards and monsters strengthened by drinking from the stream.
+:::
+
+## Veridia College of Arcane Science and the Arts
+
+The College that draws so many tourists to the town is not only an architectural marvel, but a thriving center of scientific and arcane research. While practitioners of magic are not uncommon, the main purpose of their study is to understand and find ways to use both magic and science together to better the lives of their neighbors. This has seen application most notably in the clay mines. By utilizing natural magic they coax tree roots to act as scaffolding, they use evocations to light the pits at night, and healing magic to mend the bones of the laborers. Their research has turned what was previously the backbreaking labor of surfs into a worthwhile and comfortable career for those interested in sweating their brow. This sort of investment in the community allows for those who live here to spend their free time creating art, and pursuing other activities than the bare minimum to survive.
+
+## River Veridia
+
+This small river is the lifeblood of this town. River Veridia is infused with spring water from the peak of Mount Goldara which gives it minor fortifying properties. This passive magic in the water makes for hearty, adventurous folk who take challenges in stride as they know that they are likely to heal well and quickly with a bit of rest. The magic has little effect on passers through apart from feeling well rested for the path ahead, but for those who live their lives drinking from the stream it is the lifeblood of the community. There are many celebrations of the stream and it's influence can be seen throughout the history of the town. Early battles for land are won through inexplicable feats of heroism, construction is done at lightning speed, and more technological innovation comes out of this city than anywhere else in the region. Many of the King's advisors spend considerable time with the scholars of this town, and royalty has partnered with the town for export of the water for generations. Unfortunately for those who live down stream, and for the monarchy who imports it by the barrel, the river loses it's fortifying properties over time so few outside of Veridia benefit from the magic. Even without it's magic many with connections to the town carry the water with them in small pendants out of reverence for nature's gift and all that it brings.
+
+## Festivals and Celebrations
+
+Many of the local celebrations focus on the natural splendor that surrounds the town.
+
+### Harvest
+
+Thanks to the fortifying properties of the river irrigated crops are hearty and plentiful.
+
+### First Thaw
+
+After the, admittedly mild, winters experienced in Veridia before thawing locals will build small structures up river and as the ice breaks, freeing the structures, they place bets on which ones will make it past the city. Over time this project becomes more difficult as the city expands, so each year sub challenges are issues such as "most inventive construction", "Crowd favorite", and "Constructed from the most exotic materials".
+
+### Run of the Alpacas
+
+While most are characteristically black, white and brown, a special breed of Alpaca is raised in and around Veridia that bears pastel shades of wool ranging from pale blue to lavender! These colorful Alpacas are led through the streets by their caretakers as a celebration of the textiles made from their fur, and advanced animal husbandry required to raise them.
+
+## Important Figures
+
+Karish Thall - Governor of Kaldaria
+
+Llom Spaldar - Mayor of Veridia
+
+Signar Cobblerson - A druid who tends the river, and member of the city council
+
+Myda Paldia - Market planner, and festival lead
+
+Krugg Paster - Foreman of the clay pit
+
+Eldric Stargazer - Powerful and reclusive wizard who lives just past the outskirts of town. He is occasionally seen on campus at the university.
+
+Elra Greenborough - Master blacksmith and weapon crafter
+
+Derrin Flintlock - Chief of the Veridia fire department, and volunteer militia.
+
+Branathor Flintlock - Head librarian of the college
+
+Elowen Thistlethorn - Chief Apothecary and city council member
+
+Jogrin Stormrider - Cartographer, spelunking enthusiast, city council member
+
+Lyra Oakthorn - Legendary Stonemason and city council member
+
+Orin Hells - Excellent tailor, works closely with Elra, baker on the side
+
+Caela Stonebreaker - Master healer and city Council Member
