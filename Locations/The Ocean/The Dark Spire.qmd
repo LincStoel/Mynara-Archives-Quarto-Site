@@ -1,5 +1,6 @@
 ---
 title: "The Dark Spire"
+css: styles.css
 ---
 # The Dark Spire
 
@@ -13,4 +14,10 @@ Without first hand accounts it is difficult to say if there is a single creature
 
 ### The Watchers' curse
 
-Those who bear The Watchers' mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered with no predictability to it the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.
+Those who bear The Watchers' mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered, with no predictability to it, the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.
+
+### Artist's Rendition of a Watcher
+<figure>
+      <img src="The Watcher.png" class="large-image"/>
+      <figcaption class="caption">Image Created with Stable Diffusion</figcaption>
+</figure>
