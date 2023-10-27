@@ -466,3 +466,5 @@ condition’s value by your wounded value.
 Because spending Hero Points reflects heroic deeds or tasks that surpass normal expectations, if you spend a Hero Point, you should describe the deed or task your character accomplishes with it to the other players
 
 # Thanks!
+
+[Return to main site](https://lincolnstoel.quarto.pub/mynara-archives/)
