@@ -795,7 +795,14 @@
     "href": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#circumstance-bonus",
     "title": "Learn Pathfinder",
     "section": "Circumstance Bonus",
-    "text": "Circumstance Bonus\nA circumstance bonus (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with all other bonuses, including other circumstance bonuses, unless they arise from essentially the same source."
+    "text": "Circumstance Bonus\nA circumstance bonus (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with Proficiency, Status and Equipment bonuses, but not with other Circumstance Bonuses."
+  },
+  {
+    "objectID": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#circumstance-bonus-example",
+    "href": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#circumstance-bonus-example",
+    "title": "Learn Pathfinder",
+    "section": "Circumstance Bonus Example",
+    "text": "Circumstance Bonus Example\n“Circumstance bonuses typically involve the situation you find yourself in when attempting a check. For instance, using Raise a Shield with a buckler grants you a +1 circumstance bonus to AC. Being behind cover grants you a +2 circumstance bonus to AC. If you are both behind cover and Raising a Shield, you gain only the +2 circumstance bonus for cover, since they’re the same type and the bonus from cover is higher.” - Archives of Nethys"
   },
   {
     "objectID": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#contested-checks",
@@ -970,7 +977,7 @@
     "href": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#how-many-actions-do-i-get",
     "title": "Learn Pathfinder",
     "section": "How many actions do i get?",
-    "text": "How many actions do i get?\n\n\n\n\nYou get 3 actions\n\n\n\n\nThis includes Stride (movement)\n\n\nAlso one free action and a reaction…"
+    "text": "How many actions do i get?\n\n\n\n\nYou get 3 actions\n\n\n\n\nThis includes Stride (movement)\n\n\nAlso one reaction, and as many free actions as is reasonable…"
   },
   {
     "objectID": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#why-wouldnt-i-just-strike-3-times",

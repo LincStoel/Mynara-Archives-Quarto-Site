@@ -31,7 +31,11 @@ css: styles.css
 :::
 
 ## Circumstance Bonus
-A circumstance bonus (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with all other bonuses, including other circumstance bonuses, unless they arise from essentially the same source.
+A circumstance bonus (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with Proficiency, Status and Equipment bonuses, but not with other Circumstance Bonuses.
+
+## Circumstance Bonus Example
+"Circumstance bonuses typically involve the situation you find yourself in when attempting a check. For instance, using Raise a Shield with a buckler grants you a +1 circumstance bonus to AC. Being behind cover grants you a +2 circumstance bonus to AC. If you are both behind cover and Raising a Shield, you gain only the +2 circumstance bonus for cover, since they’re the same type and the bonus from cover is higher." 
+- [Archives of Nethys](https://2e.aonprd.com/Rules.aspx?ID=312#:~:text=Circumstance%20bonuses%20typically%20involve%20the,2%20circumstance%20bonus%20to%20AC.)
 
 ## Contested Checks?
 ::: {.incremental}
@@ -282,7 +286,7 @@ You get 3 actions
 This includes Stride (movement)
 :::
 ::: {.fragment .fade-in}
-Also one free action and a reaction...
+Also one reaction, and as many free actions as is reasonable...
 :::
 :::
 
