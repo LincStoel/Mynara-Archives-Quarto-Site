@@ -15,8 +15,8 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: [flatly, custom.scss]
+    css: styles.scss
     toc: true
 
 execute:
