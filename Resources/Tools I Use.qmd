@@ -1,0 +1,21 @@
+---
+title: Tools I Use for Running the Game
+---
+- [Foundry VTT](https://foundryvtt.com/)
+  - [Paizo Foundry Bestiary Token Pack](https://foundryvtt.com/packages/pf2e-tokens-bestiaries)
+  - [Duck DNS](https://www.duckdns.org/) for keeping a static IP address for my foundry server
+    - I used [this](https://www.wundertech.net/how-to-setup-duckdns-on-a-raspberry-pi/) tutorial to set it up on a raspberry pi that I had sitting around running [Pi-hole](https://pi-hole.net/)
+- [Discord](https://discord.com/)
+- [Obsidian](https://obsidian.md/)
+  - Obsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The [canvas](https://obsidian.md/canvas) feature is particularly excellent for dungeon design.
+- [Dungeon Scrawl](https://www.dungeonscrawl.com/)
+- [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) running locally for quick AI images for NPCs, tokens, etc.
+- [Affinity Designer/Photo](https://affinity.serif.com/en-us/) for map design
+  - Shout out to [Map Effects](https://www.mapeffects.co/) for their excellent [brushes](https://www.mapeffects.co/brushes). I use their stamp brushes any time I need a map, but don't want to spend the time hand drawing every single tree and patch of grass.
+  - I also really like the [infinite pulp](https://affinity.serif.com/en-us/store/product/infinite-pulp-by-true-grit-texture-supply/) texture set for making the maps look like they were made as paper
+
+# Tools I use for sharing campaign info
+
+- [Quarto](https://quarto.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for making this website
+- [Quarto Pub](https://quartopub.com/) for hosting this site
+- [Github](https://github.com/) for version management of this site
