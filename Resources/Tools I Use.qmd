@@ -9,6 +9,7 @@ title: Tools I Use for Running the Game
 - [Obsidian](https://obsidian.md/)
   - Obsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The [canvas](https://obsidian.md/canvas) feature is particularly excellent for dungeon design.
 - [Dungeon Scrawl](https://www.dungeonscrawl.com/)
+- [Encounter Building](https://maxiride.github.io/pf2e-encounters/#/)
 - [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) running locally for quick AI images for NPCs, tokens, etc.
 - [Affinity Designer/Photo](https://affinity.serif.com/en-us/) for map design
   - Shout out to [Map Effects](https://www.mapeffects.co/) for their excellent [brushes](https://www.mapeffects.co/brushes). I use their stamp brushes any time I need a map, but don't want to spend the time hand drawing every single tree and patch of grass.
