@@ -725,7 +725,7 @@
     "href": "Resources/Tools I Use.html",
     "title": "Tools I Use for Running the Game",
     "section": "",
-    "text": "Foundry VTT\n\nPaizo Foundry Bestiary Token Pack\nDuck DNS for keeping a static IP address for my foundry server\n\nI used this tutorial to set it up on a raspberry pi that I had sitting around running Pi-hole\n\n\nDiscord\nObsidian\n\nObsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The canvas feature is particularly excellent for dungeon design.\n\nDungeon Scrawl\nStable Diffusion running locally for quick AI images for NPCs, tokens, etc.\nAffinity Designer/Photo for map design\n\nShout out to Map Effects for their excellent brushes. I use their stamp brushes any time I need a map, but don’t want to spend the time hand drawing every single tree and patch of grass.\nI also really like the infinite pulp texture set for making the maps look like they were made as paper\n\n\n\nTools I use for sharing campaign info\n\nQuarto and RStudio for making this website\nQuarto Pub for hosting this site\nGithub for version management of this site"
+    "text": "Foundry VTT\n\nPaizo Foundry Bestiary Token Pack\nDuck DNS for keeping a static IP address for my foundry server\n\nI used this tutorial to set it up on a raspberry pi that I had sitting around running Pi-hole\n\n\nDiscord\nObsidian\n\nObsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The canvas feature is particularly excellent for dungeon design.\n\nDungeon Scrawl\nEncounter Building\nStable Diffusion running locally for quick AI images for NPCs, tokens, etc.\nAffinity Designer/Photo for map design\n\nShout out to Map Effects for their excellent brushes. I use their stamp brushes any time I need a map, but don’t want to spend the time hand drawing every single tree and patch of grass.\nI also really like the infinite pulp texture set for making the maps look like they were made as paper\n\n\n\nTools I use for sharing campaign info\n\nQuarto and RStudio for making this website\nQuarto Pub for hosting this site\nGithub for version management of this site"
   },
   {
     "objectID": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#topics",
@@ -1251,5 +1251,26 @@
     "title": "Veridia",
     "section": "Important Figures",
     "text": "Important Figures\nKarish Thall - Governor of Kaldaria\nLlom Spaldar - Mayor of Veridia\nSignar Cobblerson - A druid who tends the river, and member of the city council\nMyda Paldia - Market planner, and festival lead\nKrugg Paster - Foreman of the clay pit\nEldric Stargazer - Powerful and reclusive wizard who lives just past the outskirts of town. He is occasionally seen on campus at the university.\nElra Greenborough - Master blacksmith and weapon crafter\nDerrin Flintlock - Chief of the Veridia fire department, and volunteer militia.\nBranathor Flintlock - Head librarian of the college\nElowen Thistlethorn - Chief Apothecary and city council member\nJogrin Stormrider - Cartographer, spelunking enthusiast, city council member\nLyra Oakthorn - Legendary Stonemason and city council member\nOrin Hells - Excellent tailor, works closely with Elra, baker on the side\nCaela Stonebreaker - Master healer and city Council Member"
+  },
+  {
+    "objectID": "Factions/Fleshwarpers.html",
+    "href": "Factions/Fleshwarpers.html",
+    "title": "Fleshwarpers",
+    "section": "",
+    "text": "Bio modification\nThe Fleshwarpers are a deviant branch of the Biocrafters that have forsaken the ethical principle that prohibits the twisting of flesh and bone and embrace the mediums of muscle and sinew to create bio augmentations, tools, and even vehicles that rely on flesh."
+  },
+  {
+    "objectID": "Factions/Biocrafters.html",
+    "href": "Factions/Biocrafters.html",
+    "title": "Biocrafters",
+    "section": "",
+    "text": "Bio Manipulation\nBiocrafters are artificers that work with plant and fungal matter to create tools, vehicles, buildings, etc. out of living bio materials. This is accomplished through a complex blending of scientific manipulation and primal magic."
+  },
+  {
+    "objectID": "Factions/Traders.html",
+    "href": "Factions/Traders.html",
+    "title": "Trader Guild",
+    "section": "",
+    "text": "A Guild of Travelers\nFractured by the collapse of empire the islands of these seas saw shipping lanes dry up and supplies dwindle. As towns suffered and entire governorships crumbled, the traders stepped in. A neutral party governed by a simple code of ethics and a central committee this trader guild filled the vacuum left by the disappearance of imperial supply ships.\nTraders are best known for being brave rogues who venture into dangerous territory to open trade routes with those in need.\n\n\nLeyline Compass\nThe world of Mynara is not able to be navigated via traditional means. While the planet does have magnetic poles, the Ley lines that invisibly criss-cross the world interfere with traditional compasses. A special kind of vision is required to see and follow the Ley lines between landmasses and ports. The traders partner with the Fleshwarpers to provide implants that allow their navigators to direct their ships. There are artifacts that can visualize Ley lines, and clerics of Ultheria are also able to navigate these seas, however for the apolitical and a-religious organization of the traders it is more sustainable to rely on bio augmentation.\n\n\nCode of Ethics\n\nDo not get involved in local politics\nDo not trade where you are not welcome\nDo not allow your own ethics to get in the way of the right deal\nDo not trade in slaves\nDo not trade with slavers\nDo not arm your vessel with weapons"
   }
 ]

@@ -1,0 +1,21 @@
+---
+title: Trader Guild
+---
+# A Guild of Travelers
+
+Fractured by the collapse of empire the islands of these seas saw shipping lanes dry up and supplies dwindle. As towns suffered and entire governorships crumbled, the traders stepped in. A neutral party governed by a simple code of ethics and a central committee this trader guild filled the vacuum left by the disappearance of imperial supply ships.
+
+Traders are best known for being brave rogues who venture into dangerous territory to open trade routes with those in need.
+
+# Leyline Compass
+
+The world of Mynara is not able to be navigated via traditional means. While the planet does have magnetic poles, the Ley lines that invisibly criss-cross the world interfere with traditional compasses. A special kind of vision is required to see and follow the Ley lines between landmasses and ports. The traders partner with the [Fleshwarpers](Fleshwarpers.qmd) to provide implants that allow their navigators to direct their ships. There are artifacts that can visualize Ley lines, and clerics of Ultheria are also able to navigate these seas, however for the apolitical and a-religious organization of the traders it is more sustainable to rely on bio augmentation.
+
+# Code of Ethics
+
+- Do not get involved in local politics
+- Do not trade where you are not welcome
+- Do not allow your own ethics to get in the way of the right deal
+- Do not trade in slaves
+- Do not trade with slavers
+- Do not arm your vessel with weapons
