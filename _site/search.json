@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is for hosting Lincoln Stoel’s Pathfinder 2e campaign setting. Please feel free to browse around."
+  },
+  {
     "objectID": "Adventures/The Funnel.html",
     "href": "Adventures/The Funnel.html",
     "title": "The Funnel",
@@ -7,725 +14,1026 @@
     "text": "The Beginning\n36 town folk including yourselves have journeyed up this mountainside along side the deputy ranger of Veridia Jurga Taff. Jurga is a gruff battle weary elf from where the ground stays frozen year round and your only chance of making it out of this journey alive. She has been tracking the beast for months; she’s followed up on leads from survivors, tracked the creature’s path from the wreckage of merchant carts, and so on. What she knows for certain is that this is no bear. This monster that has slain dozens of travelers and looted caravans covered its tracks, gathered valuables, and left behind things that weren’t worth keeping. Many of the victims were killed, however the few survivors have reported kidnappings and a few have mentioned that it rambled at them in a language that they aren’t familiar with. Whatever this thing is, it is stealthy, inhumanly quick, large, and needs to be stopped. Given Jurga’s research she has deduced that this cave is where the beast lives, and the corpses impaled on the stalagmites just inside its mouth. The stench of death wafts out from the dark hole in the mountain and causes your stomach to turn. Jurga groups you into squads of 4 and instructs you all to stick to the buddy system.\n\n\n\n\n\n\nJurga’s Pep Talk\n\n\n\n“Weapons out, eyes open, one of you carries a source of light at all times. You are not rangers, you are townsfolk who know how to hold a weapon. Stick close with me and you all might just make it out of here in one piece. Remember, don’t be a hero. We strike together, we move together, and if someone gets separated from the group we do not go looking for them. everyone here has made this choice with the promise of glory and wealth at the end of this, but that is only a reward that those who survive will get a cut of. You all stand here for a moment while i go scout ahead and make sure that we aren’t walking into an ambush then when i give you the signal you follow.”\n\n\nAs Jurga breaks from the group and walks into the cave you feel a sense of dread in the air. The gravity of this situation sets in. Just before you lose sight of Jurga in the inky dark of the cave you hear a loud crack before Jurga falls from view in a cloud of debris. She lets out a yell that is cut off by the sound of a body being run through. One of your fellow townsfolk runs ahead to investigate and shouts back “she fell in a spike pit. She’s dead!” As they announce this several of your allies scatter, running away from the cave, some shake their heads and toss down their makeshift spears and pitch forks before tuning and leaving. Eventually it is only the 16 of you who remain."
   },
   {
-    "objectID": "Character Creation/Deities.html",
-    "href": "Character Creation/Deities.html",
+    "objectID": "Deities.html",
+    "href": "Deities.html",
     "title": "Gods of Mynara",
     "section": "",
-    "text": "Many gods arose as their domain formed in the world. Unome, Elemental Confluence, for example, manifested from the confluence of the four elements in the material plane, Bolgrod The Annihilator existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac the Weary was created after the first warriors were left behind alone and broken in the fields of battle, and Scios God of Craft and Mining was created as clerics of Unai, Origin of Life focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.\n\n\nMortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themselves to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs.\n\n\n\n\nThe gods of this world are beyond traditional mortal questions of morality. While the gods do occasionally interfere in mortal endeavors, some more than others, or choose champions, their actions are not malevolent or benevolent they simply are. The deities are in part created through faith, and in part material, however they are responsible for their domains and act to tend their domain. Both good and evil individuals follow each god, so long as they act in line with that god’s edicts and anathemas the god will shine down on them.\n\n\n\nWhile clerics devote themselves to a single god, most mortals pray to gods depending on need. Some who’s prayers are heard may choose to keep a shrine to a specific deity in their home, or wear their symbol in continuing gratitude for divine aid, but most keep simple shrines that are of general utility or utilize a community shrine. Few deities demand full devotion from their followers. When choosing a Deity for your player character it is important to consider the type of campaign you will be playing, the values of your character, and the values of the other members of your party. While not impossible it is unlikely that a worshiper of #Albrea and #Nolduro would willingly work together. To avoid continual inter party conflict, if you plan to devote your character to a specific deity be sure to communicate that to your party members."
+    "text": "Many gods arose as their domain formed in the world. [[Deities#Unome, Elemental Confluence|Unome]], for example, manifested from the confluence of the four elements in the material plane, [[Deities#Bolgrod The Annihilator|Bolgrod]] existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. [[Deities#Dylgrac the Weary|Dylgrac]] was created after the first warriors were left behind alone and broken in the fields of battle, and [[Deities#Scios God of Craft and Mining|Scios]] was created as clerics of [[Deities#Unai, Origin of Life|Unai]] focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.\n\n\nMortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themselves to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs.\n\n\n\n\nThe gods of this world are beyond traditional mortal questions of morality. While the gods do occasionally interfere in mortal endeavors, some more than others, or choose champions, their actions are not malevolent or benevolent they simply are. The deities are in part created through faith, and in part material, however they are responsible for their domains and act to tend their domain. Both good and evil individuals follow each god, so long as they act in line with that god’s edicts and anathemas the god will shine down on them.\n\n\n\nWhile clerics devote themselves to a single god, most mortals pray to gods depending on need. Some who’s prayers are heard may choose to keep a shrine to a specific deity in their home, or wear their symbol in continuing gratitude for divine aid, but most keep simple shrines that are of general utility or utilize a community shrine. Few deities demand full devotion from their followers. When choosing a Deity for your player character it is important to consider the type of campaign you will be playing, the values of your character, and the values of the other members of your party. While not impossible it is unlikely that a worshiper of #Albrea and #Nolduro would willingly work together. To avoid continual inter party conflict, if you plan to devote your character to a specific deity be sure to communicate that to your party members."
   },
   {
-    "objectID": "Character Creation/Deities.html#divine-origin",
-    "href": "Character Creation/Deities.html#divine-origin",
+    "objectID": "Deities.html#divine-origin",
+    "href": "Deities.html#divine-origin",
     "title": "Gods of Mynara",
     "section": "",
-    "text": "Many gods arose as their domain formed in the world. Unome, Elemental Confluence, for example, manifested from the confluence of the four elements in the material plane, Bolgrod The Annihilator existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac the Weary was created after the first warriors were left behind alone and broken in the fields of battle, and Scios God of Craft and Mining was created as clerics of Unai, Origin of Life focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.\n\n\nMortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themselves to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs."
+    "text": "Many gods arose as their domain formed in the world. [[Deities#Unome, Elemental Confluence|Unome]], for example, manifested from the confluence of the four elements in the material plane, [[Deities#Bolgrod The Annihilator|Bolgrod]] existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. [[Deities#Dylgrac the Weary|Dylgrac]] was created after the first warriors were left behind alone and broken in the fields of battle, and [[Deities#Scios God of Craft and Mining|Scios]] was created as clerics of [[Deities#Unai, Origin of Life|Unai]] focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.\n\n\nMortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themselves to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs."
   },
   {
-    "objectID": "Character Creation/Deities.html#alignment",
-    "href": "Character Creation/Deities.html#alignment",
+    "objectID": "Deities.html#alignment",
+    "href": "Deities.html#alignment",
     "title": "Gods of Mynara",
     "section": "",
     "text": "The gods of this world are beyond traditional mortal questions of morality. While the gods do occasionally interfere in mortal endeavors, some more than others, or choose champions, their actions are not malevolent or benevolent they simply are. The deities are in part created through faith, and in part material, however they are responsible for their domains and act to tend their domain. Both good and evil individuals follow each god, so long as they act in line with that god’s edicts and anathemas the god will shine down on them."
   },
   {
-    "objectID": "Character Creation/Deities.html#selecting-a-deity",
-    "href": "Character Creation/Deities.html#selecting-a-deity",
+    "objectID": "Deities.html#selecting-a-deity",
+    "href": "Deities.html#selecting-a-deity",
     "title": "Gods of Mynara",
     "section": "",
     "text": "While clerics devote themselves to a single god, most mortals pray to gods depending on need. Some who’s prayers are heard may choose to keep a shrine to a specific deity in their home, or wear their symbol in continuing gratitude for divine aid, but most keep simple shrines that are of general utility or utilize a community shrine. Few deities demand full devotion from their followers. When choosing a Deity for your player character it is important to consider the type of campaign you will be playing, the values of your character, and the values of the other members of your party. While not impossible it is unlikely that a worshiper of #Albrea and #Nolduro would willingly work together. To avoid continual inter party conflict, if you plan to devote your character to a specific deity be sure to communicate that to your party members."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains",
-    "href": "Character Creation/Deities.html#domains",
+    "objectID": "Deities.html#domains",
+    "href": "Deities.html#domains",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nSun"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts",
-    "href": "Character Creation/Deities.html#edicts",
+    "objectID": "Deities.html#edicts",
+    "href": "Deities.html#edicts",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nDestruction of Undeath in all forms\nShine light into darkness"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas",
-    "href": "Character Creation/Deities.html#anathemas",
+    "objectID": "Deities.html#anathemas",
+    "href": "Deities.html#anathemas",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nArtificial or magical darkness\nUndeath"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits",
-    "href": "Character Creation/Deities.html#devotee-benefits",
+    "objectID": "Deities.html#devotee-benefits",
+    "href": "Deities.html#devotee-benefits",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nAthletics\n\n\nFavored weapon\nMace\n\n\nCleric Spells\n1st: Disrupting Weapons, 2nd: Fear the Sun, 3rd: Searing Light, 4th: Holy Cascade, 7th: Sunburst"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history",
-    "href": "Character Creation/Deities.html#notable-history",
+    "objectID": "Deities.html#notable-history",
+    "href": "Deities.html#notable-history",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nAfter #Nolduro died and provided mortals with the gift of creating undead, hordes of creatures were risen to march upon cities and nations who could not defend from armies that needed no sleep, no food, no water and marched in perfect unison under a necromancer. This led to an era of lich kings tyrannically enslaving the living and harvesting corpses for their armies. Without a god’s aid to oppose this power Albrea sought aid in nature. Drawing upon the sun’s burning light Albrea dedicated herself to eradication of mindless undead in life and inspired a holy order of clerics to follow her into battle. Through her crusade she brought light across the world and brought balance back to the world of the living and undead. Followers of Albrea tolerate the existence of sentient undead, and hold a tenuous respect for those risen through #Teneth , but will eradicate creatures risen by #Nolduro on sight."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-1",
-    "href": "Character Creation/Deities.html#domains-1",
+    "objectID": "Deities.html#domains-1",
+    "href": "Deities.html#domains-1",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nCities"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-1",
-    "href": "Character Creation/Deities.html#edicts-1",
+    "objectID": "Deities.html#edicts-1",
+    "href": "Deities.html#edicts-1",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nBuild and expand cities\nThrough Cities grow the influence of sapient creatures on the plane\nStrive to create a single city that consumes the plane\nThe needs of the city must come before all other concerns"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-1",
-    "href": "Character Creation/Deities.html#anathemas-1",
+    "objectID": "Deities.html#anathemas-1",
+    "href": "Deities.html#anathemas-1",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nUncontrolled Nature\nStopping a city’s growth in favor of conserving nature"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-1",
-    "href": "Character Creation/Deities.html#devotee-benefits-1",
+    "objectID": "Deities.html#devotee-benefits-1",
+    "href": "Deities.html#devotee-benefits-1",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm or Heal\n\n\nDivine Skill\nChoice of Craft\n\n\nFavored weapon\nLight hammer and Light Pick\n\n\nCleric Spells\n1st: Mending, 2nd: Knock, 4th: Hallucinatory Terrain, 6th: Wall of force"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-1",
-    "href": "Character Creation/Deities.html#notable-history-1",
+    "objectID": "Deities.html#notable-history-1",
+    "href": "Deities.html#notable-history-1",
     "title": "Gods of Mynara",
     "section": "Notable history",
-    "text": "Notable history\nIt is widely debated if Ardensia qualifies as an ascendant deity. Arden’s I was not a mortal, or even a creature at all. Once a vast city Ardensia spanned coast to coast on a larger island before an astral impact leveled most of the structures and caused great waves to wash away the city. A testament to what can be accomplished by the combined efforts of mortals and a well designed metropolis it is said that in their simultaneous deat the spirits of Adensians united in death and gave rise to the god of cities. Shortly after the fall of this great city mortals lurched forward in their colonization of the plane. Inspired by visions of a vast metropolis what were once small towns were spurred to expand. It is said that without Ardensia’s influence the mortals of the material plane would be nothing more that warring tribes. Ardensia’s clerics often find themselves as city planners, architects, and crafts folk dedicated to the growth and function of their city."
+    "text": "Notable history\nIt is widely debated if Ardensia qualifies as an ascendant deity. Ardensia was not a mortal, or even a creature at all. Once a vast city Ardensia spanned coast to coast on a larger island before an astral impact leveled most of the structures and caused great waves to wash away the city. A testament to what can be accomplished by the combined efforts of mortals and a well designed metropolis it is said that in their simultaneous death the spirits of Adensians united in death and gave rise to the god of cities. Shortly after the fall of this great city mortals lurched forward in their colonization of the plane. Inspired by visions of a vast metropolis what were once small towns were spurred to expand. It is said that without Ardensia’s influence the mortals of the material plane would be nothing more that warring tribes. Ardensia’s clerics often find themselves as city planners, architects, and crafts folk dedicated to the growth and function of their city."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-2",
-    "href": "Character Creation/Deities.html#domains-2",
+    "objectID": "Deities.html#domains-2",
+    "href": "Deities.html#domains-2",
     "title": "Gods of Mynara",
     "section": "Domains",
-    "text": "Domains\nVoid - Darkness - Destruction - Nature - Fate"
+    "text": "Domains\nVoid - Darkness - Destruction"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-2",
-    "href": "Character Creation/Deities.html#edicts-2",
+    "objectID": "Deities.html#edicts-2",
+    "href": "Deities.html#edicts-2",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nRelinquish all worldly attachments\nVow of poverty\nObligation to ease the end of things that have outlasted their utility to nature and their community"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-2",
-    "href": "Character Creation/Deities.html#anathemas-2",
+    "objectID": "Deities.html#anathemas-2",
+    "href": "Deities.html#anathemas-2",
     "title": "Gods of Mynara",
     "section": "Anathemas",
-    "text": "Anathemas\n\nEngage in purposeless necromancy or animation of objects\nWaste resources or participate in gluttony"
+    "text": "Anathemas\n\nCreation"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-2",
-    "href": "Character Creation/Deities.html#devotee-benefits-2",
+    "objectID": "Deities.html#devotee-benefits-2",
+    "href": "Deities.html#devotee-benefits-2",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nNature\n\n\nFavored weapon\nSling\n\n\nCleric Spells\n1st: Sleep, 2nd: Invisibility, 6th: Disintegrate"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-2",
-    "href": "Character Creation/Deities.html#notable-history-2",
+    "objectID": "Deities.html#notable-history-2",
+    "href": "Deities.html#notable-history-2",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nBalgrod is one of the more passive deities, however many have used their name to promote many atrocities. It is a common misconception that balgrod seeks to hasten the end of all things, or endorses wanton destruction. Balgrod’s sole concern is the peaceful transition from existence to non existence at the appropriate time. Many of Balgrods devotees claim visions of death and destruction, however they often vow not to reveal these visions for fear of disrupting their passing at the appropriate time."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-3",
-    "href": "Character Creation/Deities.html#domains-3",
+    "objectID": "Deities.html#domains-3",
+    "href": "Deities.html#domains-3",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\nRecovery for those who have fought with honor - Travel - Family - Luck"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-3",
-    "href": "Character Creation/Deities.html#edicts-3",
+    "objectID": "Deities.html#edicts-3",
+    "href": "Deities.html#edicts-3",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nprotect those who have given all they have in their pursuits\nEase the thoughts of those who have sacrificed\nReunite those who have journeyed far with those that they fight for"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-3",
-    "href": "Character Creation/Deities.html#anathemas-3",
+    "objectID": "Deities.html#anathemas-3",
+    "href": "Deities.html#anathemas-3",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nDisrespect of the fallen\nA failure to sacrifice for you beliefs when challenged\nAbandonment of a comrade"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-3",
-    "href": "Character Creation/Deities.html#devotee-benefits-3",
+    "objectID": "Deities.html#devotee-benefits-3",
+    "href": "Deities.html#devotee-benefits-3",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nSurvival\n\n\nFavored weapon\nSpear\n\n\nCleric Spells\n1st: Soothe, Create Water, 2nd: Create Food, 5th: Dreaming Potential"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-3",
-    "href": "Character Creation/Deities.html#notable-history-3",
+    "objectID": "Deities.html#notable-history-3",
+    "href": "Deities.html#notable-history-3",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nA commonly venerated god by soldiers and the righteous, Dylgrac is a beacon of hope to those who have sacrificed for their beliefs. The followers of Dylgrac are beyond selfless and will journey through the hells if they have to in order to bring the weary back home. Dylgrac shields those who have fought bravely as they return home regardless of the side of the battle they fought on, it is not uncommon to see battlefield medics that venerate this god tending the wounds of hostile and allied fallen alike. It is due to this respect for the fallen that all but the most ruthless and callous leaders make it a grave crime to strike down a cleric bearing Dylgrac’s mark, and their devotion often gains them passage through otherwise hostile lands."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-4",
-    "href": "Character Creation/Deities.html#domains-4",
+    "objectID": "Deities.html#domains-4",
+    "href": "Deities.html#domains-4",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\nDethroning unworthy rulers - Ambition - Might - Zeal"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-4",
-    "href": "Character Creation/Deities.html#edicts-4",
+    "objectID": "Deities.html#edicts-4",
+    "href": "Deities.html#edicts-4",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nDethrone the unworthy\nBroaden your understanding of those you live amongst\nSeek out those who would best serve their people"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-4",
-    "href": "Character Creation/Deities.html#anathemas-4",
+    "objectID": "Deities.html#anathemas-4",
+    "href": "Deities.html#anathemas-4",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nAct in haste\nAssume superiority\nAid those who would not aid themselves if able\nPromote Tyranny"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-4",
-    "href": "Character Creation/Deities.html#devotee-benefits-4",
+    "objectID": "Deities.html#devotee-benefits-4",
+    "href": "Deities.html#devotee-benefits-4",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nSociety\n\n\nFavored weapon\nBastard Sword\n\n\nCleric Spells\n1st: Biting Words, 2nd: Shield Other, 4th: Outcast’s Curse, 6th: Righteous Might"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-4",
-    "href": "Character Creation/Deities.html#notable-history-4",
+    "objectID": "Deities.html#notable-history-4",
+    "href": "Deities.html#notable-history-4",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nWhile few of Gohoon’s followers ascend to leadership, many rulers claim Gohoon’s favor. It is not uncommon for rulers to keep a court cleric of Gohoon to reinforce their authority, though it is equally common for rulers to reject Gohoon’s authority and deem worshipers traitors and enemies of the state. It is because of this that worshipers of Gohoon often masquerade as clerics of other gods, or use their skills to rise through the ranks of government rooting out the unworthy as they progress towards their ultimate goals. Those who follow Gohoon make for devoted warriors and protectors of rulers who earn their trust and fierce opponents to those who are unfit to lead."
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-5",
-    "href": "Character Creation/Deities.html#edicts-5",
+    "objectID": "Deities.html#edicts-5",
+    "href": "Deities.html#edicts-5",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nAll crafted objects belong to Lizbet and mortals only borrow their possessions from them\nSentimental connections to objects must be weighed equally against material need\nKnowledge of where an object came from and the hands that it has passed through is as important as the object itself"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-5",
-    "href": "Character Creation/Deities.html#anathemas-5",
+    "objectID": "Deities.html#anathemas-5",
+    "href": "Deities.html#anathemas-5",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nWillful ignorance of an object’s true owner\nClaiming ownership over something without devoting appropriate consideration to its providence\nStealing from those of greater need"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-5",
-    "href": "Character Creation/Deities.html#devotee-benefits-5",
+    "objectID": "Deities.html#devotee-benefits-5",
+    "href": "Deities.html#devotee-benefits-5",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nSociety\n\n\nFavored weapon\nScourge\n\n\nCleric Spells\n1st: Item Facade, 3rd: Locate, 7th: Retrocognition"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-5",
-    "href": "Character Creation/Deities.html#notable-history-5",
+    "objectID": "Deities.html#notable-history-5",
+    "href": "Deities.html#notable-history-5",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nLizbet is a strange deity, often depicted as a many armed creature with a small head and beady eyes seated in piles and piles of trinkets Lizbet represents that all to familiar urge to collect and catalogue objects for the sake of it. Lizbet’s clerics maintain that all material goods belong to Lizbet and mortals simply borrow them from her. For that reason, Lizbet’s clerics are best known for “reallocating” goods from those with means to those without with little regard for “ownership.” In their eyes all have equal claim to craft goods, with a notable exception for those who created the goods, and by stealing and gifting items they are acting as a distribution network for items. In addition to their common perception as thieves and nuisances they are also sought after for their unique skills in identifying the providence of items. They are knowledgeable in not only the origins of famous objects, but also are adept at seeking out the origins of objects. If you need to return something to someone, or identify if something is a forgery there is no better person to seek out than a cleric of Lizbet. Notably, the scourges that these clerics carry are the best identifier of those who devote themselves to Lizbet’s ideals. Clerics of Lizbet craft their Scourge from various Knick knacks and baubles that they come across in their travels. Each end of the scourge has a unique story as to why the cleric attached it to their weapon, but that story may be as simple as “I like the way it looks!”"
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-5",
-    "href": "Character Creation/Deities.html#domains-5",
+    "objectID": "Deities.html#domains-5",
+    "href": "Deities.html#domains-5",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nConfidence\nLuck\nIndulgence"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-6",
-    "href": "Character Creation/Deities.html#edicts-6",
+    "objectID": "Deities.html#edicts-6",
+    "href": "Deities.html#edicts-6",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nPush your fortune as far as it will take you\nWhen given the opportunity, indulge yourself to to the furthest extent that you are able.\nHave confidence in all things even in your knowledge of your own shortcomings"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-6",
-    "href": "Character Creation/Deities.html#anathemas-6",
+    "objectID": "Deities.html#anathemas-6",
+    "href": "Deities.html#anathemas-6",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nDo not act boorish in your indulgence\nDo not overestimate your position\nDo not allow your confidence to become greater than your fortune or ability"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-6",
-    "href": "Character Creation/Deities.html#devotee-benefits-6",
+    "objectID": "Deities.html#devotee-benefits-6",
+    "href": "Deities.html#devotee-benefits-6",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nPerformance\n\n\nFavored weapon\nStaff\n\n\nCleric Spells\n1st: Detect Poison, 2nd: Enhance Victuals, 6th: Feeblemind"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-6",
-    "href": "Character Creation/Deities.html#notable-history-6",
+    "objectID": "Deities.html#notable-history-6",
+    "href": "Deities.html#notable-history-6",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nMeedaya is quite literally the life of the party. Tracing it’s origination back to the first celebration Meedaya guided the hand of the first brewers, inspired the discovery of fireworks, and blesses banquet halls with protection and potent spirits. Providing her worshipers with visions of celebration she is the divine spark behind her cleric’s feasts and parties. Encouraging her followers to rely on good fortune, kindness, and their own abilities she rewards their devotion in kind."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-6",
-    "href": "Character Creation/Deities.html#domains-6",
+    "objectID": "Deities.html#domains-6",
+    "href": "Deities.html#domains-6",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nUndeath\nCreation"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-7",
-    "href": "Character Creation/Deities.html#edicts-7",
+    "objectID": "Deities.html#edicts-7",
+    "href": "Deities.html#edicts-7",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nNo creature is better dead than alive\nThen living have an obligation to use all tools at their disposal, and that includes the corpses of the fallen\nWhile creation of new life is the domain of #Unai sculpting the corpses of Unai’s passed creations is the obligation of disciples of Nolduro."
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-7",
-    "href": "Character Creation/Deities.html#anathemas-7",
+    "objectID": "Deities.html#anathemas-7",
+    "href": "Deities.html#anathemas-7",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nBurials are the ultimate waste of your earthly body\nBeing buried with your possessions or in a container that impedes the decay and use of your body is greedy and selfish"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-7",
-    "href": "Character Creation/Deities.html#devotee-benefits-7",
+    "objectID": "Deities.html#devotee-benefits-7",
+    "href": "Deities.html#devotee-benefits-7",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nOccultism\n\n\nFavored weapon\nDagger\n\n\nCleric Spells\n1st: Unseen Servant, 2nd: Ghoulish Craving, 3rd: Bind Undead, 4th: Talking Corpse"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-7",
-    "href": "Character Creation/Deities.html#notable-history-7",
+    "objectID": "Deities.html#notable-history-7",
+    "href": "Deities.html#notable-history-7",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nIn contrast with #Teneth Nolduro is solely interested sculpting new servitor beings from the corpses of the fallen. By carving and stitching them together Nolduro empowers his disciples with the power of gods. Creation of novel creatures from the raw materials of deceased creatures is an art reserved for mortals. Not only do these disciples create servitor beings they also augment their own bodies with undead prosthetics. Nolduro restricts the creation of undead to mortals and inhibits non mortal creatures from creating undead creatures. Before his ascension Nolduro was the first mortal on the material plane to master necromancy through study and practice without divine intervention. By perfecting this craft and focus on creation for creation’s sake upon his death his power spread throughout the plane seeding mortals forever with the latent ability to create undeath."
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-8",
-    "href": "Character Creation/Deities.html#edicts-8",
+    "objectID": "Deities.html#edicts-8",
+    "href": "Deities.html#edicts-8",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nConsume all that you are able\nThe world exists for those powerful enough to take it\nIt is not enough to consume flesh and blood but you must consume their will and spirit\nIf you would stand to gain nothing by consuming a creature it is sufficient to subjugate them"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-8",
-    "href": "Character Creation/Deities.html#anathemas-8",
+    "objectID": "Deities.html#anathemas-8",
+    "href": "Deities.html#anathemas-8",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nSelflessness is weakness\nNothing must be saved for later, your appetite must be insatiable"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-8",
-    "href": "Character Creation/Deities.html#devotee-benefits-8",
+    "objectID": "Deities.html#devotee-benefits-8",
+    "href": "Deities.html#devotee-benefits-8",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nIntimidation\n\n\nFavored weapon\nSpiked Gauntlet\n\n\nCleric Spells\n1st: Command, 2nd: Enlarge, 3rd: Vampiric Touch, 5th: Crushing Despair, 6th: Vampiric Exsanguination"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-8",
-    "href": "Character Creation/Deities.html#notable-history-8",
+    "objectID": "Deities.html#notable-history-8",
+    "href": "Deities.html#notable-history-8",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nOzoth was once the god of feast and gluttony, however it’s hunger grew and so did its ambition. Ozoth often comes into conflict with the worshipers of other deities as it’s goals are myopic, wasteful, and selfish to a fault. However, Ozoth often finds champions in places of great need. When an individual is pushed to the brink of death, when they are the sole survivor and are not out of the woods yet this is when Ozoth comes to them. Ozoth pushes people to do the unthinkable. You are starving and can only survive by eating the corpses of your already dead children, you are backed into a corner and the only way out is by ripping them apart and frightening the rest with you brutality, you are at the mercy of worshipers of Ozoth and only by matching them can you survive. However, once welcomed in Ozoth does not easily release you. Even once free of the circumstances that led you to welcome Ozoth into your heart Ozoth drives you to consume, to conquer, to dominate until there is nothing left."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-7",
-    "href": "Character Creation/Deities.html#domains-7",
+    "objectID": "Deities.html#domains-7",
+    "href": "Deities.html#domains-7",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nDarkness\nSecrecy\nTrickery\nKnowledge"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-9",
-    "href": "Character Creation/Deities.html#edicts-9",
+    "objectID": "Deities.html#edicts-9",
+    "href": "Deities.html#edicts-9",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nConceal information that could be used to harm others\nUse information to your advantage\nShare information with those you can trust\nEmbrace trickery and evasion over force and brawn"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-9",
-    "href": "Character Creation/Deities.html#anathemas-9",
+    "objectID": "Deities.html#anathemas-9",
+    "href": "Deities.html#anathemas-9",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nSolving problems with brute force\nProviding information without personal gain\nActing on unreliable information"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-9",
-    "href": "Character Creation/Deities.html#devotee-benefits-9",
+    "objectID": "Deities.html#devotee-benefits-9",
+    "href": "Deities.html#devotee-benefits-9",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nDeception\n\n\nFavored weapon\nChakram\n\n\nCleric Spells\n1st: Charm, 4th: Discern Lies, 6th: Scrying"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-9",
-    "href": "Character Creation/Deities.html#notable-history-9",
+    "objectID": "Deities.html#notable-history-9",
+    "href": "Deities.html#notable-history-9",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nPolatar’s chosen are those who excel in secrecy and concealment. This includes not only spies, but also smugglers. Polatar shields those who seek to conceal themselves and others from prying eyes."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-8",
-    "href": "Character Creation/Deities.html#domains-8",
+    "objectID": "Deities.html#domains-8",
+    "href": "Deities.html#domains-8",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nPerfection\nAmbition"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-10",
-    "href": "Character Creation/Deities.html#edicts-10",
+    "objectID": "Deities.html#edicts-10",
+    "href": "Deities.html#edicts-10",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nChoose a combat style and perfect it\nPerfect your physical form for combat\nNo combat challenge by a worthy opponent may be declined\nNo combat challenge may be issued to an opponent from whom you would not deem worthy to accept a challenge from when death is a possible outcome"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-10",
-    "href": "Character Creation/Deities.html#anathemas-10",
+    "objectID": "Deities.html#anathemas-10",
+    "href": "Deities.html#anathemas-10",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nFighting an opponent To humiliate them debases the challenger as much as it humiliates the challenged\nUsing your skills to defeat the defenseless\nDying outside of combat\nDying to an unworthy foe"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-10",
-    "href": "Character Creation/Deities.html#devotee-benefits-10",
+    "objectID": "Deities.html#devotee-benefits-10",
+    "href": "Deities.html#devotee-benefits-10",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nAthletics\n\n\nFavored weapon\nUnarmed\n\n\nCleric Spells\n1st: Ant Haul, 4th: Mountain Resilience, 6th: True Seeing"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-10",
-    "href": "Character Creation/Deities.html#notable-history-10",
+    "objectID": "Deities.html#notable-history-10",
+    "href": "Deities.html#notable-history-10",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nPoldaga was created when the first monks perfected a martial art. Through their dedication to self perfection their collective belief created a new domain. Poldaga is often depicted as a many armed muscular humanoid wearing a long Stoll. Many martial artists and clerics of Poldaga don the impractical garment during training as they believe that if you master your movements and control your body you should be able to keep even the loosest garments in place as you battle. Some disciplines even incorporate loosely hung weapons and clothing into their combat styles creating what looks like a vortex of flailing weapons and fabric."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-9",
-    "href": "Character Creation/Deities.html#domains-9",
+    "objectID": "Deities.html#domains-9",
+    "href": "Deities.html#domains-9",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nPain\nTruth"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-11",
-    "href": "Character Creation/Deities.html#edicts-11",
+    "objectID": "Deities.html#edicts-11",
+    "href": "Deities.html#edicts-11",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nThrough pain truth will be revealed\nPain must be willingly received for the truth to be revealed\nPain is not something to be avoided. All lessons are learned through pain."
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-11",
-    "href": "Character Creation/Deities.html#anathemas-11",
+    "objectID": "Deities.html#anathemas-11",
+    "href": "Deities.html#anathemas-11",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nPain without purpose\nPain delivered to the unwilling in search of the truth\nSelf deception\nTorture"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-11",
-    "href": "Character Creation/Deities.html#devotee-benefits-11",
+    "objectID": "Deities.html#devotee-benefits-11",
+    "href": "Deities.html#devotee-benefits-11",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nDiplomacy\n\n\nFavored weapon\nScourge\n\n\nCleric Spells\n1st: Harm, 4th: Discern Lies, 6th: True Seeing"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-11",
-    "href": "Character Creation/Deities.html#notable-history-11",
+    "objectID": "Deities.html#notable-history-11",
+    "href": "Deities.html#notable-history-11",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nUnlike most deities who are created when their domain is first experienced or manifested Runai was created when the first coerced false admission of guilt was uttered. So repulsed by this abuse of pain Runai’s followers seek to impose rule over pain and the existence of pure truth. These devotees often put themselves through brutal trials that test the limits of their endurance to strengthen their resolve if they ever face torture or coercion. Many individuals who commit themselves to the rule of law will partially commit themselves to the values of Runai, but only the most devoted will willingly subject themselves to pain."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-10",
-    "href": "Character Creation/Deities.html#domains-10",
+    "objectID": "Deities.html#domains-10",
+    "href": "Deities.html#domains-10",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nEarth\nCreation\nAmbition\nIndulgence"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-12",
-    "href": "Character Creation/Deities.html#edicts-12",
+    "objectID": "Deities.html#edicts-12",
+    "href": "Deities.html#edicts-12",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nCreate in both high quality and in high quantity\nA project can be fiNished without being perfect. Acknowledgement of flaws in your work is the first step to improvement and should not be dwelled upon.\nDevote yourself to honing your craft\nAssist others in their ambitions to hone their craft\nCreate both for others as well as yourself"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-12",
-    "href": "Character Creation/Deities.html#anathemas-12",
+    "objectID": "Deities.html#anathemas-12",
+    "href": "Deities.html#anathemas-12",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nDisrespect of another’s creation is a grave offence\nCreating poor quality goods in high quantity is a debasement\nPursuit of perfection is only permissible as long as the benefits of perfection are not outweighed by the need for your craft"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-12",
-    "href": "Character Creation/Deities.html#devotee-benefits-12",
+    "objectID": "Deities.html#devotee-benefits-12",
+    "href": "Deities.html#devotee-benefits-12",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nSelect craft\n\n\nFavored weapon\nLight Pick\n\n\nCleric Spells\n1st: Summon Construct, 2nd: Shape Wood, 4th: Shape Stone"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-12",
-    "href": "Character Creation/Deities.html#notable-history-12",
+    "objectID": "Deities.html#notable-history-12",
+    "href": "Deities.html#notable-history-12",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nFollowers of Scios are a talented and rambunctious bunch. Seldom placing much value on anything other than their craft and the pursuit of refining their skills they often strike others as self absorbed, this however couldn’t be further from the truth. While yes, the pursuit of their craft is front and center they are equally as enthusiastic about helping others refine their craft and making their skills available to others. Scios disciples devote equal energy to celebration of craft as they do to the pursuit often holding great indulgent feasts, and parties to congratulate another craft person’s triumph. Some find it odd that miners often devote themselves to Scios, Scios does hold domain over earth after all, but it is worth drawing attention to how much of what artisans use to create comes from the earth! Smiths use the ore that is pulled from the ground, chefs use the food grown from the dirt, painters use dyes made from ground minerals, and sculptors not only use clay, but many of their glazes are drawn from earth as well! Miners, while masters of their own craft, mining, are a critical part of a craft person’s work and they command appropriate respect from any artisan who claims to hold themselves to Scios’ ideals."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-11",
-    "href": "Character Creation/Deities.html#domains-11",
+    "objectID": "Deities.html#domains-11",
+    "href": "Deities.html#domains-11",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\nCollect knowledge - Knowledge - Protection - Truth"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-13",
-    "href": "Character Creation/Deities.html#edicts-13",
+    "objectID": "Deities.html#edicts-13",
+    "href": "Deities.html#edicts-13",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nSeek out and preserve knowledge of all types\nDocument novel findings\nVerify the truth of information, but do not allow uncertainty to impede documentation"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-13",
-    "href": "Character Creation/Deities.html#anathemas-13",
+    "objectID": "Deities.html#anathemas-13",
+    "href": "Deities.html#anathemas-13",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\ndiscriminate information based on your values\nAllow knowledge to be lost or forgotten\nAllow a proven falsehood to spread\nAllow your physical health to impact your mental well-being"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-13",
-    "href": "Character Creation/Deities.html#devotee-benefits-13",
+    "objectID": "Deities.html#devotee-benefits-13",
+    "href": "Deities.html#devotee-benefits-13",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal or harm\n\n\nDivine Skill\nSociety\n\n\nFavored weapon\nGauntlet\n\n\nCleric Spells\n1st: Mending, 4th: Discern Lies, 6th: Collective Transposition"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-13",
-    "href": "Character Creation/Deities.html#notable-history-13",
+    "objectID": "Deities.html#notable-history-13",
+    "href": "Deities.html#notable-history-13",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nSodde is highly involved in the world through his devoted. You will frequently find shrines and other places of worship throughout places of learning, libraries, and museums. Many practitioners of law venerate Sodde and will use their blessings in pursuit of the truth. While Sodde abhors lies their devoted are encouraged to lie to those who would lie to others if it furthers the pursuit and conservation of knowledge."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-12",
-    "href": "Character Creation/Deities.html#domains-12",
+    "objectID": "Deities.html#domains-12",
+    "href": "Deities.html#domains-12",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nUndeath\nFreedom"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-14",
-    "href": "Character Creation/Deities.html#edicts-14",
+    "objectID": "Deities.html#edicts-14",
+    "href": "Deities.html#edicts-14",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nWaste nothing, not even the dead\nUndeath is the ultimate freedom. In Undeath you become free from hunger, sickness, age, and vanity. Humane assisted suicide should be offered to any who choose Undeath early\nNo living creature should live in servitude and no creature in Undeath should be bound to a master\nThe Spirit is equally as important to protect as the body\nUpon death you relinquish all rights to your physical belongings. In Undeath you may start anew"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-14",
-    "href": "Character Creation/Deities.html#anathemas-14",
+    "objectID": "Deities.html#anathemas-14",
+    "href": "Deities.html#anathemas-14",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nTotal destruction of a corpse is desecration\nBinding a sentient creature, living or dead, to your will is the height of evil.\nGluttony and waste has no place in the halls of Teneth"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-14",
-    "href": "Character Creation/Deities.html#devotee-benefits-14",
+    "objectID": "Deities.html#devotee-benefits-14",
+    "href": "Deities.html#devotee-benefits-14",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal or Harm\n\n\nDivine Skill\nIntimidation\n\n\nFavored weapon\nSpiked Chain\n\n\nCleric Spells\n1st: Fear, 2nd: Peaceful Rest, 4th: Remove Curse, 7th: Mask of Terror"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-14",
-    "href": "Character Creation/Deities.html#notable-history-14",
+    "objectID": "Deities.html#notable-history-14",
+    "href": "Deities.html#notable-history-14",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nTeneth is a highly regarded deity among the oppressed representing the ultimate freedom. Priests of Teneth are often seen carrying the chains used to hold them in life that they have laden with spikes and blades to use their bindings to Punish those who would oppress others. These priest are liberators, and omens. To those who endeavor to subjugate the weak a priest holding a spiked chain may as well read like a death sentence. As such, slavers and oppressors keep a vigilant eye for Teneth worship and react swiftly and without question."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-13",
-    "href": "Character Creation/Deities.html#domains-13",
+    "objectID": "Deities.html#domains-13",
+    "href": "Deities.html#domains-13",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\nSmall creatures less than 5 pounds in weight - Family - Protection - Nature - Healing"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-15",
-    "href": "Character Creation/Deities.html#edicts-15",
+    "objectID": "Deities.html#edicts-15",
+    "href": "Deities.html#edicts-15",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nAll life is sacred\nVow to ease the early stages of life for all creatures\nTend to native pollinator plants and insects"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-15",
-    "href": "Character Creation/Deities.html#anathemas-15",
+    "objectID": "Deities.html#anathemas-15",
+    "href": "Deities.html#anathemas-15",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nHarming small creatures\nEating the flesh of a living creature\nDestruction of animal habitat\nInterfering with a pollinating insect"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-15",
-    "href": "Character Creation/Deities.html#devotee-benefits-15",
+    "objectID": "Deities.html#devotee-benefits-15",
+    "href": "Deities.html#devotee-benefits-15",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nNature\n\n\nFavored weapon\nSickle\n\n\nCleric Spells\n1st: Ant Haul, 2nd: Speak with Animals, 4th: Breath of Life"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-15",
-    "href": "Character Creation/Deities.html#notable-history-15",
+    "objectID": "Deities.html#notable-history-15",
+    "href": "Deities.html#notable-history-15",
     "title": "Gods of Mynara",
     "section": "Notable History",
     "text": "Notable History\nOriginally the god of flowers and pollination Tolya’s domain gradually grew to include all small creatures and creatures in the early stages of life as their clerics took on these responsibilities for their communities. Clerics of Tolya often act as midwives and vets for their community, but are not primarily responsible for these tasks as part of their beliefs."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-14",
-    "href": "Character Creation/Deities.html#domains-14",
+    "objectID": "Deities.html#domains-14",
+    "href": "Deities.html#domains-14",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\nProtect the sources of arcane magic at all costs - Protection - Magic - Water - Moon"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-16",
-    "href": "Character Creation/Deities.html#edicts-16",
+    "objectID": "Deities.html#edicts-16",
+    "href": "Deities.html#edicts-16",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nClear any inhibitors to the flow of magic through the world’s ley lines\nConstruct markers at the nodes where ley lines cross\nDestroy anything that would interrupt the flow of magic through a ley line\nPrevent any one individual from overdrawing from the ley line network\nDestroy all sources of anti-magic\nPrevent the pollution or corruption of magical springs"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-16",
-    "href": "Character Creation/Deities.html#anathemas-16",
+    "objectID": "Deities.html#anathemas-16",
+    "href": "Deities.html#anathemas-16",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nWaste magical Energies\nAllow a ley monument to degrade\nInhibit the natural flow of magic or otherwise attempt to redirect a ley line\nPollute waterways"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-16",
-    "href": "Character Creation/Deities.html#devotee-benefits-16",
+    "objectID": "Deities.html#devotee-benefits-16",
+    "href": "Deities.html#devotee-benefits-16",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nArcana\n\n\nFavored weapon\nTrident\n\n\nCleric Spells\n1st: magic missile, 2nd: magic mouth, 3rd: levitate, 4th: blink, 5th: control water, 6th: wall of force, 7th: Ethereal Jaunt, 8th: maze, 9th: disjunction"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-16",
-    "href": "Character Creation/Deities.html#notable-history-16",
+    "objectID": "Deities.html#notable-history-16",
+    "href": "Deities.html#notable-history-16",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nMany believe Utheria to be one of few gods that venture into the material plane with regularity, though others insist that any physical representation of Utheria is only an avatar. Often depicted as a large sturdy amphibious dragon like creature with smooth translucent skin Utheria not only chooses champions but they also directly bring down their wrath on those that would degrade the presence of magic in the world. It is believed that the arcane forces ebbe with the tides and flow along ley lines like the rivers. While there are many types of magical springs, the most important to the devout are those that draw their power from ley nodes. These springs are one of few direct channels of magic from the ley network into the material plane. Where other springs may go stale as the source of their magic depletes so long as the ley network remains intact no “ley spring” will ever lose potency."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-15",
-    "href": "Character Creation/Deities.html#domains-15",
+    "objectID": "Deities.html#domains-15",
+    "href": "Deities.html#domains-15",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nCreation\nNature\nKnowledge"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-17",
-    "href": "Character Creation/Deities.html#edicts-17",
+    "objectID": "Deities.html#edicts-17",
+    "href": "Deities.html#edicts-17",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nConservation of the natural world and the cataloging of Unai’s creations\nDocument and share the discoveries of new species\nMaintain the natural ecosystem of the world\nDedicate time to create and imagine the world in new ways as Unai does"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-17",
-    "href": "Character Creation/Deities.html#anathemas-17",
+    "objectID": "Deities.html#anathemas-17",
+    "href": "Deities.html#anathemas-17",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nExtinction of a species\nThe allowance of a single species to grow uncontrolled\nThe perversion of natural form with mechanical or other augmentation"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-17",
-    "href": "Character Creation/Deities.html#devotee-benefits-17",
+    "objectID": "Deities.html#devotee-benefits-17",
+    "href": "Deities.html#devotee-benefits-17",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal or Harm\n\n\nDivine Skill\nNature\n\n\nFavored weapon\nSickle\n\n\nCleric Spells\n1st: Summon Plant or Fungus, 2nd: Speak with Animals, 4th: Speak with Plants, 6th: True Seeing"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-17",
-    "href": "Character Creation/Deities.html#notable-history-17",
+    "objectID": "Deities.html#notable-history-17",
+    "href": "Deities.html#notable-history-17",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nUnai was not created by #Unome but was the first thinking entity that arose after Unome brought order to the elemental chaos. Unai finding itself in a barren world of unforgiving stone, crushing waves, powerful gales, and destructive plane put itself to work elevating the elements into something more hospitable. First bringing about the building blocks of life in the ocean then gradually guiding these creatures into thinking beings worthy of keeping company Unai is thought as the originator of most life. While some creatures were brought about by other gods, Unai ultimately took responsibility for guiding these creatures in the world to find a place along side the other natural beasts and plants."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-16",
-    "href": "Character Creation/Deities.html#domains-16",
+    "objectID": "Deities.html#domains-16",
+    "href": "Deities.html#domains-16",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nAir\nFire\nWater\nEarth"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-18",
-    "href": "Character Creation/Deities.html#edicts-18",
+    "objectID": "Deities.html#edicts-18",
+    "href": "Deities.html#edicts-18",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nYour face must be covered so as to hide your true intentions\nElements are meant to commingle and be used in conjunction. Separating their usage into different domains is blasphemy\nThe elements must not be considered separate domains, but rather parts of a whole"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-18",
-    "href": "Character Creation/Deities.html#anathemas-18",
+    "objectID": "Deities.html#anathemas-18",
+    "href": "Deities.html#anathemas-18",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nUse of an element to destroy innocents is a sin\nFire must never be left to spread uncontrolled\nWater must not be allowed to flood unguided\nEarth may not fall without resistance\nAir may not be allowed to build momentum as a vortex to the point that it becomes destructive"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-18",
-    "href": "Character Creation/Deities.html#devotee-benefits-18",
+    "objectID": "Deities.html#devotee-benefits-18",
+    "href": "Deities.html#devotee-benefits-18",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal or Harm\n\n\nDivine Skill\nNature\n\n\nFavored weapon\nSai\n\n\nCleric Spells\n1st: Choose one, (Air Bubble, Create Water, Burning Hands, Mending); 2nd: Summon Elemental, 3rd: Choose one, (Earthbind, Feet to Fins, Searing Light, Meld into Stone); 4th: Choose one, (Air Walk, Hydraulic Torrent, Fire Shield, Shape Stone); 5th, Elemental Form"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-18",
-    "href": "Character Creation/Deities.html#notable-history-18",
+    "objectID": "Deities.html#notable-history-18",
+    "href": "Deities.html#notable-history-18",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nUnome arose from the chaotic elemental energies that confluences into the material plane. As old as the mountains, as vast in power as the writhing oceans, as quick as a cutting wind, and as fierce as a roaring fire Unome ordered the elements. Unomes four faces each watch over an element preventing it from overtaking the others. We’re it not for Unome the material plane would have never formed from the wild elemental energies that ripped through space. Unome’s followers value harmonious existence not only with the elements, but also with nature. Temples to Unome often feature carefully curated gardens that include features that showcase the four elements in beautiful arrangements."
   },
   {
-    "objectID": "Character Creation/Deities.html#domains-17",
-    "href": "Character Creation/Deities.html#domains-17",
+    "objectID": "Deities.html#domains-17",
+    "href": "Deities.html#domains-17",
     "title": "Gods of Mynara",
     "section": "Domains",
     "text": "Domains\n\nHealing\nZeal"
   },
   {
-    "objectID": "Character Creation/Deities.html#edicts-19",
-    "href": "Character Creation/Deities.html#edicts-19",
+    "objectID": "Deities.html#edicts-19",
+    "href": "Deities.html#edicts-19",
     "title": "Gods of Mynara",
     "section": "Edicts",
     "text": "Edicts\n\nProvide Aid wherever required\nEliminate those who would do harm swiftly and without remorse\nHarm reduction above all else"
   },
   {
-    "objectID": "Character Creation/Deities.html#anathemas-19",
-    "href": "Character Creation/Deities.html#anathemas-19",
+    "objectID": "Deities.html#anathemas-19",
+    "href": "Deities.html#anathemas-19",
     "title": "Gods of Mynara",
     "section": "Anathemas",
     "text": "Anathemas\n\nHarming an innocent\nEnabling someone who would harm an innocent\nProlonging a painful life with no end of that pain in sight"
   },
   {
-    "objectID": "Character Creation/Deities.html#devotee-benefits-19",
-    "href": "Character Creation/Deities.html#devotee-benefits-19",
+    "objectID": "Deities.html#devotee-benefits-19",
+    "href": "Deities.html#devotee-benefits-19",
     "title": "Gods of Mynara",
     "section": "Devotee Benefits",
     "text": "Devotee Benefits\n\nDivine Font\nHeal\n\n\nDivine Skill\nMedicine\n\n\nFavored weapon\nDagger\n\n\nCleric Spells\n1st: Spirit Link, 2nd: Remove Fear, 3rd: Neutralize Poison, 6th: Field of Life"
   },
   {
-    "objectID": "Character Creation/Deities.html#notable-history-19",
-    "href": "Character Creation/Deities.html#notable-history-19",
+    "objectID": "Deities.html#notable-history-19",
+    "href": "Deities.html#notable-history-19",
     "title": "Gods of Mynara",
     "section": "Notable history",
     "text": "Notable history\nBattle healers, Would be rescuers, those who have been harmed and continue to be in harm’s way are all within the domain of Zehlt. Zehlt empowers their champions with divine might to provide help wherever needed; be it deep within the bowels of the earth, or high in the mountains Zhelt’s clerics will find you to provide aid. Unlike #Dylgrac’s disciples who focus on helping the wounded, Zhelt’s healers carry medicine in one hand and a blade in the other. For Zhelt’s chosen it is equally important to heal the wounds, but also punish those who opened them."
   },
   {
-    "objectID": "Resources/Tools I Use.html",
-    "href": "Resources/Tools I Use.html",
-    "title": "Tools I Use for Running the Game",
+    "objectID": "Deities.html#domains-18",
+    "href": "Deities.html#domains-18",
+    "title": "Gods of Mynara",
+    "section": "Domains",
+    "text": "Domains\n\nFate\nMagic"
+  },
+  {
+    "objectID": "Deities.html#edicts-20",
+    "href": "Deities.html#edicts-20",
+    "title": "Gods of Mynara",
+    "section": "Edicts",
+    "text": "Edicts\n\nPlay the hand you are dealt, do not fight destiny\nThe stick is a much better motivator than the carrot\nThe ends justify the means"
+  },
+  {
+    "objectID": "Deities.html#anathemas-20",
+    "href": "Deities.html#anathemas-20",
+    "title": "Gods of Mynara",
+    "section": "Anathemas",
+    "text": "Anathemas\n\nDenial of your own, or another’s destiny\nCurses without purpose\nRemoval of a curse before it has run its course"
+  },
+  {
+    "objectID": "Deities.html#devotee-benefits-20",
+    "href": "Deities.html#devotee-benefits-20",
+    "title": "Gods of Mynara",
+    "section": "Devotee Benefits",
+    "text": "Devotee Benefits\n\nDivine Font\nHarm\n\n\nDivine Skill\nOccult\n\n\nFavored weapon\nMeteor Hammer\n\n\nCleric Spells\n1st: Bane; 3rd; Blindness; 6th: Baleful Polymorph"
+  },
+  {
+    "objectID": "Deities.html#notable-history-20",
+    "href": "Deities.html#notable-history-20",
+    "title": "Gods of Mynara",
+    "section": "Notable history",
+    "text": "Notable history\nZerderak’s guidance is seldom appreciated, and even more rarely immediately helpful. Where other gods may open doors for their followers, Zerderak will close them until there is only a single path to take. Zerderak sees the past, present, and future of all sentient creatures and leverages horrible curses to guide them towards their ultimate destiny. Truly Zerderak has the insterest of the accursed at the forefront of her priorities, however she ccares little for the short term pain inflicted upon them."
+  },
+  {
+    "objectID": "Factions/Confederacy of Mages.html",
+    "href": "Factions/Confederacy of Mages.html",
+    "title": "Confederacy of Mages",
     "section": "",
-    "text": "Foundry VTT\n\nPaizo Foundry Bestiary Token Pack\nDuck DNS for keeping a static IP address for my foundry server\n\nI used this tutorial to set it up on a raspberry pi that I had sitting around running Pi-hole\n\n\nDiscord\nObsidian\n\nObsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The canvas feature is particularly excellent for dungeon design.\n\nDungeon Scrawl\nEncounter Building\nStable Diffusion running locally for quick AI images for NPCs, tokens, etc.\nAffinity Designer/Photo for map design\n\nShout out to Map Effects for their excellent brushes. I use their stamp brushes any time I need a map, but don’t want to spend the time hand drawing every single tree and patch of grass.\nI also really like the infinite pulp texture set for making the maps look like they were made as paper\n\n\n\nTools I use for sharing campaign info\n\nQuarto and RStudio for making this website\nQuarto Pub for hosting this site\nGithub for version management of this site"
+    "text": "This organization is one of the more well governed groups and has members scattered across all the known lands where there is magical phenomenon to be investigated. Governed by the council of archmages, the mages most well versed in their chosen discipline, the archmages determine the edicts for their order and may call upon their colleagues to address concerns that impact all mages. Generally the mages have few true anathemas, but share a common set of rules that they must all uphold if they want to access the resources of the league.\n\n\nIt is worth noting that many mages dabble in all schools of magic. Those who become acolytes of a single school are of a particularly single minded sort, and often pick of strange idiosyncrasies from their studies.\n\n\n\n\nBest known for her gleaming suit of ethereal armor that hums with magical energy, Valta is the archmage that governs Abjurers world abound. Valta’s tower is beyond approach. Those who have challenged her find themselves trapped in a quagmire of wards and arcane traps that often toe the line of cruelty. Those who live near the tower tell stories to their children of a would be bandit who was foolish enough to approach uninvited who can still be found trapped in a temporal crystal unaware that an unknowable amount of time has passed since he stumbled into the ward and ignorant that he will never reach his destination.\n\n\n\n\nPreparation is always preferred over improvising\nThose who fall victim to a lack of foresight deserve the consequences and should only be rescued if they would not survive to learn from their failure\nCaution is inversely proportional to the level which you were able to prepare\n\n\n\n\n\nRecklessness\nInattention to detail\nWastefulness\n\n\n\n\n\n\n\nEderbran is best known for his fortress accessible via the nexus of 3 or more leylines. Ederbran appears capable of coercing entities from any plane or realm into his service and does so with vigorous enthusiasm. Within his palace he takes great pleasure in showcasing his museum which is home to exotic creatures and entities from beyond the known realms.\n\n\n\n\n\n\nCeriana rarely appears at the council, but when she does attend these gatherings it signifies to the other mages that the decisions made that day are of long term importance. Ceriana’s distance and near silence is thought to be due to her near omnipotence of event and the crushing weight of responsibility that rests on her shoulders. It more often than not seems that ascending to the status of archmage in the school of Divination is a source of never ending torment for those who pursue this magic.\n\n\n\n\nInterfere with the natural course of events only where the alternative is worse for all in the long term\nPeer into the future only to the extent that your mind is capable of reckoning\n\n\n\n\n\nUsing divinations for personal gain at the detriment of others\nNeedlessly sharing your visions with those that they impact when they are incapable of changing the outcome\n\n\n\n\n\n\n\nMorvain’s appearance is that of a drunken tailor. Their clothing is a variety of mismatched garments that all seem to glimmer and crackle with energy like some kind of arcane static electricity. The colors and intensity of this energy seems to change and shift with Morvain’s demenor.\n\n\n\n\nSeek Consent before enchanting another creature\nCurses must always be able to be undone\nEnchantments must always bear a distinguishing signature so that in the event that they must be corrected the caster is known\n\n\n\n\n\nReckless use of enchantments\nEnchanting a creature not capable of understanding the effects of the enchantment\nDisproportionate use of curses to the slight commited\n\n\n\n\n\n\n\nPyrell has been worshipped as a god by many of the uneducated masses that she has encountered as she follows storms and tempers volcanos. Pyrell uses her command of energy to seek out and protect sites of magical significance from harmful powers. Many of the communities around these sites view her as their savior, little to their knowledge they just happened to live near a temple on a ley line nexus, or live above an arcane imbued aquifer.\n\n\n\n\nExert your control over energy to perfect your environment\nProtect ley line nexus at all costs\n\n\n\n\n\nDestruction of magical sites and artifacts\nRemoval of magical defenses without replacing them\nyielding control\n\n\n\n\n\n\n\n\nMaribelle, which is assumed to be her true name, is truly a composite of different facades. It is unknown what her true appearance is, what her voice sounds like, or even what ancestry she is a descendent of. When she does appear is is difficult to tell if she is even physically present. Maribelle frequently sends avatars to do her work. While she seems to speak through them and influence events directly by their hands the litany of illusions spun to create their likeness blurs the lines between illusion and reality to such and extent that these avatars may as well be physical entities.\n\n\n\nGive away as little information as possible to those who would do you harm\nAlways substitute lies where the truth is unnecessary\n\n\n\n\n\nEndanger yourself when an illusion will do\nRely on an illusion where simple deception would better serve\n\n\n\n\n\n\n\nTharogrim is a most unsettling individual to most, his skin is pale grey from funeral ash, and he has several “prosthetic” limbs grafted from a variety of creatures. It is little wonder that the mages of other schools tend to avoid Necromancers. Disregarding the edicts of the undead gods, Tharogrim crafts magical dynamos that function as beating hearts for his creations. A connoisseur of both sentient and non sentient undead Tharogrim is an expert at matching form to function. Viewing necromancy as a form of recycling, and graveyards as scrap heaps, the visage of the arcane horrors that bear these necromantic dynamos is often sufficient to give the faint of heart reason to collapse.\n\n\n\n\nWaste nothing that couldn’t be reused\nUndead creations must have a purpose\nReject the restrictive teachings of clerics\n\n\n\n\n\nTrapping unwilling souls into undead forms needlessly\nLeaving undead unsupervised\nDivulging secrets of arcane necromancy to clerics\n\n\n\n\n\n\n\nAurellius calls the sands of Aroquell home. Known for creating vast glass sculptures and crystal fortresses Aurellius’ fondness for sand as a medium for transmutation is obvious. Strangely Aurellius insists that he will never use transmutation to create valuables, though when challenged he has been known to turn whole palaces to solid gold, only to change them to brittle sandstone a minute later to prove his point. It is often unclear what of Aurellius’ appearance is natural. His features have an otherworldly beauty to them and his clothing shimmers like diamonds, with the texture of silk.\n\n\n\n\nWhat can be improved must be\nValue is only a fixed property to those who cannot shape the world\nNothing is immutable, change is inevitable\n\n\n\n\n\nUnwillingness to change\nUnwillingness to sacrifice for a goal\nSentimentality towards objects"
+  },
+  {
+    "objectID": "Factions/Confederacy of Mages.html#schools-of-magic-their-archmage",
+    "href": "Factions/Confederacy of Mages.html#schools-of-magic-their-archmage",
+    "title": "Confederacy of Mages",
+    "section": "",
+    "text": "It is worth noting that many mages dabble in all schools of magic. Those who become acolytes of a single school are of a particularly single minded sort, and often pick of strange idiosyncrasies from their studies.\n\n\n\n\nBest known for her gleaming suit of ethereal armor that hums with magical energy, Valta is the archmage that governs Abjurers world abound. Valta’s tower is beyond approach. Those who have challenged her find themselves trapped in a quagmire of wards and arcane traps that often toe the line of cruelty. Those who live near the tower tell stories to their children of a would be bandit who was foolish enough to approach uninvited who can still be found trapped in a temporal crystal unaware that an unknowable amount of time has passed since he stumbled into the ward and ignorant that he will never reach his destination.\n\n\n\n\nPreparation is always preferred over improvising\nThose who fall victim to a lack of foresight deserve the consequences and should only be rescued if they would not survive to learn from their failure\nCaution is inversely proportional to the level which you were able to prepare\n\n\n\n\n\nRecklessness\nInattention to detail\nWastefulness\n\n\n\n\n\n\n\nEderbran is best known for his fortress accessible via the nexus of 3 or more leylines. Ederbran appears capable of coercing entities from any plane or realm into his service and does so with vigorous enthusiasm. Within his palace he takes great pleasure in showcasing his museum which is home to exotic creatures and entities from beyond the known realms.\n\n\n\n\n\n\nCeriana rarely appears at the council, but when she does attend these gatherings it signifies to the other mages that the decisions made that day are of long term importance. Ceriana’s distance and near silence is thought to be due to her near omnipotence of event and the crushing weight of responsibility that rests on her shoulders. It more often than not seems that ascending to the status of archmage in the school of Divination is a source of never ending torment for those who pursue this magic.\n\n\n\n\nInterfere with the natural course of events only where the alternative is worse for all in the long term\nPeer into the future only to the extent that your mind is capable of reckoning\n\n\n\n\n\nUsing divinations for personal gain at the detriment of others\nNeedlessly sharing your visions with those that they impact when they are incapable of changing the outcome\n\n\n\n\n\n\n\nMorvain’s appearance is that of a drunken tailor. Their clothing is a variety of mismatched garments that all seem to glimmer and crackle with energy like some kind of arcane static electricity. The colors and intensity of this energy seems to change and shift with Morvain’s demenor.\n\n\n\n\nSeek Consent before enchanting another creature\nCurses must always be able to be undone\nEnchantments must always bear a distinguishing signature so that in the event that they must be corrected the caster is known\n\n\n\n\n\nReckless use of enchantments\nEnchanting a creature not capable of understanding the effects of the enchantment\nDisproportionate use of curses to the slight commited\n\n\n\n\n\n\n\nPyrell has been worshipped as a god by many of the uneducated masses that she has encountered as she follows storms and tempers volcanos. Pyrell uses her command of energy to seek out and protect sites of magical significance from harmful powers. Many of the communities around these sites view her as their savior, little to their knowledge they just happened to live near a temple on a ley line nexus, or live above an arcane imbued aquifer.\n\n\n\n\nExert your control over energy to perfect your environment\nProtect ley line nexus at all costs\n\n\n\n\n\nDestruction of magical sites and artifacts\nRemoval of magical defenses without replacing them\nyielding control\n\n\n\n\n\n\n\n\nMaribelle, which is assumed to be her true name, is truly a composite of different facades. It is unknown what her true appearance is, what her voice sounds like, or even what ancestry she is a descendent of. When she does appear is is difficult to tell if she is even physically present. Maribelle frequently sends avatars to do her work. While she seems to speak through them and influence events directly by their hands the litany of illusions spun to create their likeness blurs the lines between illusion and reality to such and extent that these avatars may as well be physical entities.\n\n\n\nGive away as little information as possible to those who would do you harm\nAlways substitute lies where the truth is unnecessary\n\n\n\n\n\nEndanger yourself when an illusion will do\nRely on an illusion where simple deception would better serve\n\n\n\n\n\n\n\nTharogrim is a most unsettling individual to most, his skin is pale grey from funeral ash, and he has several “prosthetic” limbs grafted from a variety of creatures. It is little wonder that the mages of other schools tend to avoid Necromancers. Disregarding the edicts of the undead gods, Tharogrim crafts magical dynamos that function as beating hearts for his creations. A connoisseur of both sentient and non sentient undead Tharogrim is an expert at matching form to function. Viewing necromancy as a form of recycling, and graveyards as scrap heaps, the visage of the arcane horrors that bear these necromantic dynamos is often sufficient to give the faint of heart reason to collapse.\n\n\n\n\nWaste nothing that couldn’t be reused\nUndead creations must have a purpose\nReject the restrictive teachings of clerics\n\n\n\n\n\nTrapping unwilling souls into undead forms needlessly\nLeaving undead unsupervised\nDivulging secrets of arcane necromancy to clerics\n\n\n\n\n\n\n\nAurellius calls the sands of Aroquell home. Known for creating vast glass sculptures and crystal fortresses Aurellius’ fondness for sand as a medium for transmutation is obvious. Strangely Aurellius insists that he will never use transmutation to create valuables, though when challenged he has been known to turn whole palaces to solid gold, only to change them to brittle sandstone a minute later to prove his point. It is often unclear what of Aurellius’ appearance is natural. His features have an otherworldly beauty to them and his clothing shimmers like diamonds, with the texture of silk.\n\n\n\n\nWhat can be improved must be\nValue is only a fixed property to those who cannot shape the world\nNothing is immutable, change is inevitable\n\n\n\n\n\nUnwillingness to change\nUnwillingness to sacrifice for a goal\nSentimentality towards objects"
+  },
+  {
+    "objectID": "Factions/Non Player Factions/Biocrafters.html",
+    "href": "Factions/Non Player Factions/Biocrafters.html",
+    "title": "Biocrafters",
+    "section": "",
+    "text": "Bio Manipulation\nBiocrafters are artificers that work with plant and fungal matter to create tools, vehicles, buildings, etc. out of living bio materials. This is accomplished through a complex blending of scientific manipulation and primal magic."
+  },
+  {
+    "objectID": "Factions/Non Player Factions/Fleshwarpers.html",
+    "href": "Factions/Non Player Factions/Fleshwarpers.html",
+    "title": "Fleshwarpers",
+    "section": "",
+    "text": "Bio modification\nThe Fleshwarpers are a deviant branch of the Biocrafters that have forsaken the ethical principle that prohibits the twisting of flesh and bone and embrace the mediums of muscle and sinew to create bio augmentations, tools, and even vehicles that rely on flesh."
+  },
+  {
+    "objectID": "Factions/The Black Winds.html",
+    "href": "Factions/The Black Winds.html",
+    "title": "Black Winds",
+    "section": "",
+    "text": "The black winds is a marauding group of loosely associated pirates that populate the lawless regions of the ocean. The Black Winds moniker is more often used as a statement of intent than as an announcement of formal membership. The only guiding principles of the pirates who fly the Black Winds Flag is that they do not attack other ships flying the flag, and they do not draw the ire of organizations that would pose a threat to piracy. This “code”, if you can call it that, is enforced by other pirates and if a pirate flying the flag is found to be in violation of these rules by their other seafaring counterparts it most frequently ends in a sunken ship.\nRegional rules may be imposed by powerful pirate lords, but those rules are enforced by those individuals rather than by a centralized power. If the Black Winds pirates face an existential threat the most powerful of these pirates may establish a war council, however these informal governing bodies break apart as quickly as they are formed once the threat is dealt with.\n\n\nThe only way to leave a black winds crew is by taking a vow to never set sail again. If a former Black Winds affiliated crewman is discovered to have set foot on even a dingy they will be hunted down and killed. While not a hard rule, it is customary that if a former Black Winds pirate is brought to their former captain, alive or dead, a handsome bounty is to be paid out.\n\n\n\n\nDo not expose other members of the Black Winds to undue danger without their knowledge and consent\nDraw no more attention from powerful entities than is justified by the benefits of your venture\nThose who retire may never sail again\n\n\n\n\n\nEndanger other Black Winds crews without their knowledge or consent\nAlly with 3rd parties against other Black Winds crews\nLie about your affiliation to other Black Winds members"
+  },
+  {
+    "objectID": "Factions/The Black Winds.html#retirement",
+    "href": "Factions/The Black Winds.html#retirement",
+    "title": "Black Winds",
+    "section": "",
+    "text": "The only way to leave a black winds crew is by taking a vow to never set sail again. If a former Black Winds affiliated crewman is discovered to have set foot on even a dingy they will be hunted down and killed. While not a hard rule, it is customary that if a former Black Winds pirate is brought to their former captain, alive or dead, a handsome bounty is to be paid out."
+  },
+  {
+    "objectID": "Factions/The Black Winds.html#edicts",
+    "href": "Factions/The Black Winds.html#edicts",
+    "title": "Black Winds",
+    "section": "",
+    "text": "Do not expose other members of the Black Winds to undue danger without their knowledge and consent\nDraw no more attention from powerful entities than is justified by the benefits of your venture\nThose who retire may never sail again"
+  },
+  {
+    "objectID": "Factions/The Black Winds.html#anathemas",
+    "href": "Factions/The Black Winds.html#anathemas",
+    "title": "Black Winds",
+    "section": "",
+    "text": "Endanger other Black Winds crews without their knowledge or consent\nAlly with 3rd parties against other Black Winds crews\nLie about your affiliation to other Black Winds members"
+  },
+  {
+    "objectID": "Factions/The Empire.html",
+    "href": "Factions/The Empire.html",
+    "title": "The Empire",
+    "section": "",
+    "text": "The Empire was a plane spanning governmental force that at its height led to great prosperity and arcanotech advancement. Today, splinter groups of the empire still exist and exert limited influence over nearby society, however their power is maintained through tradition and by relying on magical devices and weapons that they no longer understand. The secrets to maintaining their biodrives, wards, teleportation circles, and magical armament have been lost to all but the phantasm forest and the occasional eccentric who studies the old ways. It’s not uncommon for cities to house a representative of the empire out of respect, but any time the empire attempts to exert influence over an otherwise independent kingdom they are swiftly reminded of how far they have fallen.\n\n\nThe empire’s decline was not swift. Unlike the fall of a king that ends with his beheading, the empire was subject to sieges, coups, assassinations, etc.. But, a plane spanning government posesses a momentum that lone rulers can only dream of. The empire fell to rubble not with a dramatic collapse, but with a whisper.\nThe fall started with the outer kingdoms. As the empire became more and more centralized, and its resources increasingly focused on defending its capitol the outer precincts began declaring independence. These declarations were rarely met with resistance, but they represented an existential threat to the empire. As rings of precincts broke off from the capital eventually the empire found themselves with little real power to stop the fall.\n\n\n\nThe Capital of the empire was built on the rubble of the mythical city of Ardensia. New Ardensia not only carried the Empire’s seal, but also the divine responsibility to spread civilization. The soul of civilization’s influence on the plane mirrors the rise and fall of the empire. Once one of the most influential gods who frequently chose avatars and influenced government, now Ardensia’s influence is only felt in holy places and remnants of what once was. Today the city is largely abandoned. The descendants of the empire found their access to imported goods dwindling as their farm precincts deserted them, and without farmland on Ardensia they found themselves hungry. As the mining colonies left Ardensians found themselves recycling goods beyond their useful lifespan until their largest “craft” industry became scrapping. Eventually large swaths of the city were left to decline, and finally the capital of the empire was moved to Kalinkiev and the ruins of New Ardensia were left as the inheritance to those who remained behind. While Kalinkiev is officially the administrative hub of the empire it acts as little more than an island to host the various lords estates and summer homes.\n\n\n\nWhile the legacy of the empire is felt throughout the plane, there are places where whole generations will live and die without ever learning that the empire ever existed. The most lasting influence of the empire is the many, many, many caches of arcanotech that were left in their wake. Warlords have rose to power armed with these weapons and have fell just as quickly when they stopped working. Finding these caches is almost as enriching as defeating a spring guardian, but there is a significant risk that someone beat you to it, or the empires wards remain in tact.\nBeyond the artifacts left behind there are cells of the empire that still claim influence, but these lords are largely hanging on to an influence that has long since past.\n\n\n\nThose who belong to the empire have a great variety of ethical codes. The edicts and anathemas of the individual largely align with the noble they serve."
+  },
+  {
+    "objectID": "Factions/The Empire.html#the-fall",
+    "href": "Factions/The Empire.html#the-fall",
+    "title": "The Empire",
+    "section": "",
+    "text": "The empire’s decline was not swift. Unlike the fall of a king that ends with his beheading, the empire was subject to sieges, coups, assassinations, etc.. But, a plane spanning government posesses a momentum that lone rulers can only dream of. The empire fell to rubble not with a dramatic collapse, but with a whisper.\nThe fall started with the outer kingdoms. As the empire became more and more centralized, and its resources increasingly focused on defending its capitol the outer precincts began declaring independence. These declarations were rarely met with resistance, but they represented an existential threat to the empire. As rings of precincts broke off from the capital eventually the empire found themselves with little real power to stop the fall."
+  },
+  {
+    "objectID": "Factions/The Empire.html#the-capital",
+    "href": "Factions/The Empire.html#the-capital",
+    "title": "The Empire",
+    "section": "",
+    "text": "The Capital of the empire was built on the rubble of the mythical city of Ardensia. New Ardensia not only carried the Empire’s seal, but also the divine responsibility to spread civilization. The soul of civilization’s influence on the plane mirrors the rise and fall of the empire. Once one of the most influential gods who frequently chose avatars and influenced government, now Ardensia’s influence is only felt in holy places and remnants of what once was. Today the city is largely abandoned. The descendants of the empire found their access to imported goods dwindling as their farm precincts deserted them, and without farmland on Ardensia they found themselves hungry. As the mining colonies left Ardensians found themselves recycling goods beyond their useful lifespan until their largest “craft” industry became scrapping. Eventually large swaths of the city were left to decline, and finally the capital of the empire was moved to Kalinkiev and the ruins of New Ardensia were left as the inheritance to those who remained behind. While Kalinkiev is officially the administrative hub of the empire it acts as little more than an island to host the various lords estates and summer homes."
+  },
+  {
+    "objectID": "Factions/The Empire.html#legacy",
+    "href": "Factions/The Empire.html#legacy",
+    "title": "The Empire",
+    "section": "",
+    "text": "While the legacy of the empire is felt throughout the plane, there are places where whole generations will live and die without ever learning that the empire ever existed. The most lasting influence of the empire is the many, many, many caches of arcanotech that were left in their wake. Warlords have rose to power armed with these weapons and have fell just as quickly when they stopped working. Finding these caches is almost as enriching as defeating a spring guardian, but there is a significant risk that someone beat you to it, or the empires wards remain in tact.\nBeyond the artifacts left behind there are cells of the empire that still claim influence, but these lords are largely hanging on to an influence that has long since past."
+  },
+  {
+    "objectID": "Factions/The Empire.html#edicts-anathemas",
+    "href": "Factions/The Empire.html#edicts-anathemas",
+    "title": "The Empire",
+    "section": "",
+    "text": "Those who belong to the empire have a great variety of ethical codes. The edicts and anathemas of the individual largely align with the noble they serve."
+  },
+  {
+    "objectID": "Factions/Traders.html",
+    "href": "Factions/Traders.html",
+    "title": "Trader Guild",
+    "section": "",
+    "text": "A Guild of Travelers\nFractured by the collapse of empire the islands of these seas saw shipping lanes dry up and supplies dwindle. As towns suffered and entire governorships crumbled, the traders stepped in. A neutral party governed by a simple code of ethics and a central committee this trader guild filled the vacuum left by the disappearance of imperial supply ships.\nTraders are best known for being brave rogues who venture into dangerous territory to open trade routes with those in need.\n\n\nLeyline Compass\nThe world of Mynara is not able to be navigated via traditional means. While the planet does have magnetic poles, the Ley lines that invisibly criss-cross the world interfere with traditional compasses. A special kind of vision is required to see and follow the Ley lines between landmasses and ports. The traders partner with the Fleshwarpers to provide implants that allow their navigators to direct their ships. There are artifacts that can visualize Ley lines, and clerics of Ultheria are also able to navigate these seas, however for the apolitical and a-religious organization of the traders it is more sustainable to rely on bio augmentation.\n\n\nCode of Ethics\n\nDo not get involved in local politics\nDo not trade where you are not welcome\nDo not allow your own ethics to get in the way of the right deal\nDo not trade in slaves\nDo not trade with slavers\nDo not arm your vessel with weapons"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mynara-Archives",
+    "section": "",
+    "text": "This site is for hosting Lincoln Stoel’s Pathfinder 2e campaign setting. This site is very much “in progress”, but please feel free to browse around."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Dulthrotha Plateau.html",
+    "href": "Locations/Dulthrotha Plateau/Dulthrotha Plateau.html",
+    "title": "Dulthrotha Plateau",
+    "section": "",
+    "text": "A Sea Above the Sea\nThe Dulthrotha Plateau is a strange landmass that rises thousands of feet above Mynara standard sea level. The Plateau is covered by water and surrounded by a ring of waterfalls as the water cascades over the edge of the plateau. Before you get the wrong idea, this is no mere mesa, The sea, while shallow by comparison, is deep enough to facilitate ship travel, ecosystems, and even holds several islands. The means by which the water collects on this surface is not entirely known, however what is known is that the water rushes up from deep holes in the sea floor and jets out creating dangerous currents. Caves on the islands that poke up from this sea are known to have deep miasma present at much shallower depths than elsewhere in the world likely due to the same pressures that cause the sea to flow forth from the ground.\n\n\nTravel to and from\nTravel is complicated by the writhing currents, and vertical climb to get atop the plateau. A glideship is sufficient to leave the plateau, but to venture onto the plateau full airship capabilities are required. This causes the plateau to be largely isolated from the world at large and has shielded it from most of the chaos of the last hundred years post collapse of the imperium."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/Hjelld.html",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/Hjelld.html",
+    "title": "Hjelld",
+    "section": "",
+    "text": "A Dotted Landscape\nHjelld is an island with an overabundance of leyline springs. Scholars often venture to this land to study the magical phenomenon, and study to stories of the Lutheran priests that dwell in the islands many temples. Adventurers venture to this land to test their mettle against the empowered guardians that walk the landscape. Because the springs are not harnessed by civilization the creatures born and weaned of their waters grow powerful and wild.\nWhile there are signs of civilization across this island the villages are most often self sufficient and agrarian."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/Port Scarbor.html",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/Port Scarbor.html",
+    "title": "Port Scarbor",
+    "section": "",
+    "text": "Egress to the Wildlands\nOn the north shore of the island there is a small port town that welcomes scholars and adventurers alike to the island. This city acts as a home base for those who wander Hjelld’s wilderness in search of magical artifacts and knowledge."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html",
+    "title": "The Phantasm Forest",
+    "section": "",
+    "text": "Deep beyond the groves of trees in the highlands of Hjelld the Phantasm Forest rests holding the secrets of travelers safe until such a time they are required by another. It is said that there is no better way to learn if your traveling companions are reliable than to rest underneath the canopy of pale yellow leaves of these shimmering trees. As travelers pass through the woods they witness visions of the lives and memories of previous travelers while leaving impressions of their own behind. These echoes of time may reveal truths of the realm, or guide adventurers to long forgotten treasures of ages past. However, the forest gives as much as it takes and those who venture into the forest must be without secret or shame unless they would leave these thoughts behind for others to view. Over time as the memories of those who pass are concentrated within the leaves of these trees they are slowly transformed into parchment like sheets bearing tales of events long passed. The veins form lines of swirling text written in a language unique to the forest, and often adopted by those who study the arcane, that chronicle the memories contained within. These leaves are prized by mages and scholars for their magical properties and historical relevance respectively. One would think that these chronicles would be born of the recollection of a single individual, or jumbled inarticulate ramblings of several unrelated memories, however the forest seems to distribute the memories that are gathered in a sort of natural library. Before a leaf is released from the canopy the forest must be satisfied that a full telling of a story is captured, only then will the abscission of the leaf occur. The wood seldom bothers with malicious or magnanimous action, however a way to guarantee that your memories never escape the forest is to prematurely harvest a leaf from the boughs of the greenwood. If a leaf is pulled from it’s node before it’s tale is captured the very earth will quake as The Warden excises your soul from your flesh.\n\n\nRising high through the canopies stands a magnificent gnarled tree weaved from the boughs of numerous intertwined aspen known as the Warden of the Phantasm Forest. This central Godwood’s roots are the foundation that every tree in the wood grows from. The Warden stands in silent guardianship of the forest and will happily converse with travelers who seek guidance in good faith, but is equally eager to snuff the fire that burns within those who would do harm to the forest or interrupt their stories. As well as guardian, The Warden serves the additional role as the collector of the completed stories. As the leaves fall from the Phantasm Forest’s canopy they degrade and the knowledge is captured in the roots of The Warden. While the warden abhors the interruption of their stories, if a traveler gathers up fallen leaves and reads the text marked upon them The Warden is happy to move branches, uplift roots, and subtly manipulate the landscape to create a comfortable space to read. The bargain struck with The Warden in that moment that a leaf is gathered requires that once the reader has finished that the leaf be left behind among the underbrush of the forest. Unlike many guardians who came upon a spring and became enthralled by the power that it offers there is no surface geyser that the magic imbued water erupts from in this forest. That’s not to say that the shimmering pools of the forest aren’t imbued with their own power, it is that these pools were not exposed until the roots of the forest drank from the aquifer below. While it is impossible to know for certain, it is believed that this magical forest first came about when the roots of The Warden, before it was known as The Warden of course, first pulled the magic from the earth to the surface.\n\n\n\nAmong the trees of this magnificent forest reside a variety of creatures that co-exist in this safe place. Many animals who live within the forest find themselves awakened and gifted a foundation of memories from a benevolent traveler to build their understanding around. In more exceptional cases plants that are not integrated into the Warden’s root system find themselves similarly awakened. While not all awakened creatures are gifted with enlightened intellect those who know their language may find that even the lowliest of rodent has the capacity for more enlightened conversation. While The Warden is not all knowing within the bounds of it’s forest it is through the friendship with it’s denizens that it has eyes. Also among the underbrush are specters that, contrary to common wisdom, are not true ghosts. The distinction between these ghostly entities and true incorporeal undead is that these renderings do not have their origins in the realm of spirits and rather the realm of memories and the mind. Because the forest is less concerns with the actions of individuals than it is with events and narratives these “spirits” are not absorbed into The Warden’s collection. Particularly powerful memories of individuals can manifest as shimmering phantasms in their likeness as depicted by the memories of others. As you wander the grove you may find yourself face to face with heroes and leaders of nations, but not as they actually were rather finding them as how they were remembered.\n\n\n\nOnce manifested these phantasms take agency over their experience and the older phantasms may evolve and become unrecognizable from the memories that bore them. One may come across a specter that began as a leader of a nation, but now holds the visage of a humble rabbit. Or perhaps meet the menacing beast that came from a spirit once known best for its amenability. It is best not to treat the specters as recordings of individuals long passed but rather as their own entity.\n\n\n\nThose who wander may come across nourishing fruits of the forest. When presented with these gifts one is best to accept as the forest gives these gifts not only of fulfillment of body, but also of mind. Each berry, apple, or nettle is imbued with knowledge that The Warden has deemed you worthy of and when eaten will instantly grant you understanding. Occasionally these gifts contain the knowledge of how to approach the central clearing that The Warden inhabits So as to allow you a more extended audience with the forest. Without specific guidance from the forest even the most adept navigators will find themselves always on the edge of the warden’s glade but never able to peer within."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#the-warden",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#the-warden",
+    "title": "The Phantasm Forest",
+    "section": "",
+    "text": "Rising high through the canopies stands a magnificent gnarled tree weaved from the boughs of numerous intertwined aspen known as the Warden of the Phantasm Forest. This central Godwood’s roots are the foundation that every tree in the wood grows from. The Warden stands in silent guardianship of the forest and will happily converse with travelers who seek guidance in good faith, but is equally eager to snuff the fire that burns within those who would do harm to the forest or interrupt their stories. As well as guardian, The Warden serves the additional role as the collector of the completed stories. As the leaves fall from the Phantasm Forest’s canopy they degrade and the knowledge is captured in the roots of The Warden. While the warden abhors the interruption of their stories, if a traveler gathers up fallen leaves and reads the text marked upon them The Warden is happy to move branches, uplift roots, and subtly manipulate the landscape to create a comfortable space to read. The bargain struck with The Warden in that moment that a leaf is gathered requires that once the reader has finished that the leaf be left behind among the underbrush of the forest. Unlike many guardians who came upon a spring and became enthralled by the power that it offers there is no surface geyser that the magic imbued water erupts from in this forest. That’s not to say that the shimmering pools of the forest aren’t imbued with their own power, it is that these pools were not exposed until the roots of the forest drank from the aquifer below. While it is impossible to know for certain, it is believed that this magical forest first came about when the roots of The Warden, before it was known as The Warden of course, first pulled the magic from the earth to the surface."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#the-underbrush",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#the-underbrush",
+    "title": "The Phantasm Forest",
+    "section": "",
+    "text": "Among the trees of this magnificent forest reside a variety of creatures that co-exist in this safe place. Many animals who live within the forest find themselves awakened and gifted a foundation of memories from a benevolent traveler to build their understanding around. In more exceptional cases plants that are not integrated into the Warden’s root system find themselves similarly awakened. While not all awakened creatures are gifted with enlightened intellect those who know their language may find that even the lowliest of rodent has the capacity for more enlightened conversation. While The Warden is not all knowing within the bounds of it’s forest it is through the friendship with it’s denizens that it has eyes. Also among the underbrush are specters that, contrary to common wisdom, are not true ghosts. The distinction between these ghostly entities and true incorporeal undead is that these renderings do not have their origins in the realm of spirits and rather the realm of memories and the mind. Because the forest is less concerns with the actions of individuals than it is with events and narratives these “spirits” are not absorbed into The Warden’s collection. Particularly powerful memories of individuals can manifest as shimmering phantasms in their likeness as depicted by the memories of others. As you wander the grove you may find yourself face to face with heroes and leaders of nations, but not as they actually were rather finding them as how they were remembered."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#phantasms",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#phantasms",
+    "title": "The Phantasm Forest",
+    "section": "",
+    "text": "Once manifested these phantasms take agency over their experience and the older phantasms may evolve and become unrecognizable from the memories that bore them. One may come across a specter that began as a leader of a nation, but now holds the visage of a humble rabbit. Or perhaps meet the menacing beast that came from a spirit once known best for its amenability. It is best not to treat the specters as recordings of individuals long passed but rather as their own entity."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#fruits-of-the-forest",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Phantasm Forest.html#fruits-of-the-forest",
+    "title": "The Phantasm Forest",
+    "section": "",
+    "text": "Those who wander may come across nourishing fruits of the forest. When presented with these gifts one is best to accept as the forest gives these gifts not only of fulfillment of body, but also of mind. Each berry, apple, or nettle is imbued with knowledge that The Warden has deemed you worthy of and when eaten will instantly grant you understanding. Occasionally these gifts contain the knowledge of how to approach the central clearing that The Warden inhabits So as to allow you a more extended audience with the forest. Without specific guidance from the forest even the most adept navigators will find themselves always on the edge of the warden’s glade but never able to peer within."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Rancid Bogs of Hjelld.html",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Rancid Bogs of Hjelld.html",
+    "title": "The Rancid Bogs of Hjelld",
+    "section": "",
+    "text": "Once a prosperous wetland where wild rice was harvested by locals and all sorts of natural creatures frolicked the area now known as the Bogs of Hjelld are no place for living creatures. Created by dark magic the land has been poisoned and cursed. A fetid stink of rotting plant matter and animal flesh fills the air, and poisonous swamp gas bubbles from underneath the surface. While many hostile undead creatures wander this bog none is as fearsome as the Blighted Behemoth. This creature stands guardian over the corrupted spring that feeds the curse and quickly dispatches any adventurers foolish enough to venture into its domain…\n\n\nStanding tens of feet tall this massive creature has unparalleled strength and dexterity. It moves through the bog with unmatched quickness and force. The Behemoth’s arms are the width of tree trunks, and it’s legs are twice that, blackened skin sloughs off of its body with every movement as new rancid flesh grows to take its place before meeting a similar fate. The creature stands on hind legs, but seems to amble through the swamp much like an orangutan. It’s long arms launch the creature from stone outcroppings, to large dead trees, to unsuspecting prey. Its neck is nearly the same width as it’s chest and it’s face is nearly featureless aside from A large maw lined with needle teeth and a long nose that ends with a ring of short tentacles reminiscent of a star nosed mole. Those who have faced down the creature and lived say that your only means of escape is to land a solid blow on its facial tentacles and disorient the creature long enough to flee."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Hjelld/The Rancid Bogs of Hjelld.html#the-blighted-behemoth",
+    "href": "Locations/Dulthrotha Plateau/Hjelld/The Rancid Bogs of Hjelld.html#the-blighted-behemoth",
+    "title": "The Rancid Bogs of Hjelld",
+    "section": "",
+    "text": "Standing tens of feet tall this massive creature has unparalleled strength and dexterity. It moves through the bog with unmatched quickness and force. The Behemoth’s arms are the width of tree trunks, and it’s legs are twice that, blackened skin sloughs off of its body with every movement as new rancid flesh grows to take its place before meeting a similar fate. The creature stands on hind legs, but seems to amble through the swamp much like an orangutan. It’s long arms launch the creature from stone outcroppings, to large dead trees, to unsuspecting prey. Its neck is nearly the same width as it’s chest and it’s face is nearly featureless aside from A large maw lined with needle teeth and a long nose that ends with a ring of short tentacles reminiscent of a star nosed mole. Those who have faced down the creature and lived say that your only means of escape is to land a solid blow on its facial tentacles and disorient the creature long enough to flee."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Jathera/Capitol.html",
+    "href": "Locations/Dulthrotha Plateau/Jathera/Capitol.html",
+    "title": "Capitol",
+    "section": "",
+    "text": "A City Built Anew\nPost revolution Jathera burned the shrines of oppression that housed the aristocracy and used the valuable trade goods gathered from their destruction to fund the construction of a new capital city. Over time, as their nation grew powerful, Capitol spread across the countryside. Surrounding farmland with city blocks, connecting the hamlets and towns of the countryside with cobblestone roads, the nation now resembles one sprawling city with the lines that delineate boroughs left as the only remnants that the cities are distinct from one another. Of course this city does not span the nation coast to coast, but from within it seems endless."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Jathera/Jathera.html",
+    "href": "Locations/Dulthrotha Plateau/Jathera/Jathera.html",
+    "title": "Jathera",
+    "section": "",
+    "text": "A Continent Spanning Nation\nAmong withering empires and city states Jathera, while only slightly larger than others by landmass, is a titan among mortals. Enriched by silver mines and a prospering steel industry, and empowered by harnessing the magic of several springs within its borders this nation brings an unparalleled ferocity to protecting its interests. Jathera has historically been a relatively insular nation, to the relief of nearby colonies, but has in the last decade or so been amassing a large navy.\n\n\nAura of Protection\nIt is common for the wealthy and powerful to invest in protection; Be that in the form of magical auras, a particularly powerful magical artifact, body guards, or other such manner of protection. But, on the rare occasion that Jatherians are seen traveling the world, regardless of status or means they bear a mark more effective than any of the traditional wards. An individual bearing the official seal of the country is not shielded from physical harm, nor are they granted any enhanced strength. Most often the seal is a simple embroidered patch adorning otherwise unremarkable clothes. This seal carries with it the foreboding promise that should anything happen to the person wearing it the full force of the Jatherian military will bear down on the attacker. This promise is so well known that a Jatherian emissary can walk the fetid halls of an Ozothian tyrant’s dungeon and emerge unscathed. This protection extends to any citizen wearing the official seal and as a result the Jatherian government extends the same swift and forceful punishment that it affords those foolish enough to threaten it’s citizens to anyone who would dare create a forgery of its seal.\n\n\nDemocratic and Fair\nThis nation was founded out of a union of mining towns oppressed by a now extinct monarchy that had worked them to the bone and took the profits of their citizens for their own to fund their lavish parties and decadent feasts. Led by a charismatic and practical former poet these miners rose against those who held the yoke about their neck and overthrew them in a series of increasingly bloody revolts. Once they seized the mines, the farms, ports and other centers of industry they simply starved the remaining aristocrats out of their gilded palaces. You may occasionally hear from aristocrats who fled the nation early in the revolution referring to the nation by its old name, Arakith, in derision. But know this, these individuals are only allowed to roam free without fear of being hunted down as a warning from Jatheria to those who would dare attempt to force them back into servitude.\nToday the nation is governed in parliamentary fashion with no central leader. Notably, the political forces of their parliament are backed by different labor groups such as the mining and metalwork union, port and trade organization, and fieldworkers united among others."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html",
+    "title": "The Hunting Grounds",
+    "section": "",
+    "text": "Once the site of the capitol city of Kaldaria, the hunting grounds are now home to overgrown wilderness and all sorts of monsters that emerged from the great chasm.\n\n\nThe capital of Kaldaria, of the same name, was an old city of brass and stone that fell to monsters after a great earthquake opened a great chasm and swallowed the eastern edge of the city. Through this gap swarmed thousands of deep dwellers who made quick work of the civilized folk. The militias of the city were able to contain the monsters to the South Central portion of the island, but little was able to be done to save the city. Leaderless the towns of Kaldaria formed their own city states with a shared military responsible for containing the hordes of creatures that now inhabit the area known as the hunting grounds.\n\n\n\nA modern pastime of adventurers who pay visit to Kaldaria is venturing across the patrol line into the infested woods to seek out treasure in the crumbling ruins, and challenge the pack alphas and warlords of the woods.\n\n\n\nLegend says that the Godwood without council of the hunting grounds grew from the site where the king was slain in the castle courtyard. Those who study such legends say that the blood of the ruler stained the ground of the courtyard and in anger Ardensia, the God of civilization, trapped the soul of the city within a tree so that someday, when the hunting grounds were reclaimed from the monsters, the city may be reborn from the rubble and retain its memory as a capitol of a unified nation."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#a-city-so-grand",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#a-city-so-grand",
+    "title": "The Hunting Grounds",
+    "section": "",
+    "text": "The capital of Kaldaria, of the same name, was an old city of brass and stone that fell to monsters after a great earthquake opened a great chasm and swallowed the eastern edge of the city. Through this gap swarmed thousands of deep dwellers who made quick work of the civilized folk. The militias of the city were able to contain the monsters to the South Central portion of the island, but little was able to be done to save the city. Leaderless the towns of Kaldaria formed their own city states with a shared military responsible for containing the hordes of creatures that now inhabit the area known as the hunting grounds."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#treasure-and-honor",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#treasure-and-honor",
+    "title": "The Hunting Grounds",
+    "section": "",
+    "text": "A modern pastime of adventurers who pay visit to Kaldaria is venturing across the patrol line into the infested woods to seek out treasure in the crumbling ruins, and challenge the pack alphas and warlords of the woods."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#godwood-of-the-ruined-capital",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Hunting Grounds.html#godwood-of-the-ruined-capital",
+    "title": "The Hunting Grounds",
+    "section": "",
+    "text": "Legend says that the Godwood without council of the hunting grounds grew from the site where the king was slain in the castle courtyard. Those who study such legends say that the blood of the ruler stained the ground of the courtyard and in anger Ardensia, the God of civilization, trapped the soul of the city within a tree so that someday, when the hunting grounds were reclaimed from the monsters, the city may be reborn from the rubble and retain its memory as a capitol of a unified nation."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html",
+    "title": "Veridia",
+    "section": "",
+    "text": "Welcome to Veridia!\n\n\n\nWelcome to Veridia, a small city nestled in the highland cliffs and ancient woodlands of Kaldaria. Here, the heart of the town resonates with the harmonious blend of artistic mastery and the pursuit of knowledge. Veridia is renowned for its flourishing clay industry, where skilled artisans mold the rich earth into exquisite pottery and intricate sculptures. Travelers from all over go out of their way to tour the gorgeous architecture of the Academic college. Enveloped by lush gardens, and featuring magnificent sculptures, the college’s architecture beckons scholars and inquisitive minds. Within its walls scholars of all creeds delve deep into the secrets of the world. The marketplace bustles with the vibrant colors of imported wares and textiles, while the town square becomes a stage for festivals that honor art and the spirit of creativity. Yet, beneath this tranquil exterior, a world of mysteries awaits within the woods and cliffs that surround the city, enticing adventurers and explorers. At the top of the highest cliff of the surrounding hills is a magical spring that flows into and endows the river moving through the valley with minor constitution fortifying properties. The sick and elderly will make pilgrimages up the stream that feeds into the river to drink from falls closer to the source in hopes of curing their ailments. However those that journey higher up the mountain seldom make it to the summit. It is rumored that atop the mountain sleeps a shimmering frog-like beast who’s life stretches back to when the mountains were young. Those who claim to have met this beast say that it spoke to them of these ancient times and explained secrets of the world. Many university students, enthralled by this legend, attempt the journey, but seldom make it even a fraction of the way up as the path is beset by hazards and monsters strengthened by drinking from the stream."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#veridia-college-of-arcane-science-and-the-arts",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#veridia-college-of-arcane-science-and-the-arts",
+    "title": "Veridia",
+    "section": "Veridia College of Arcane Science and the Arts",
+    "text": "Veridia College of Arcane Science and the Arts\nThe College that draws so many tourists to the town is not only an architectural marvel, but a thriving center of scientific and arcane research. While practitioners of magic are not uncommon, the main purpose of their study is to understand and find ways to use both magic and science together to better the lives of their neighbors. This has seen application most notably in the clay mines. By utilizing natural magic they coax tree roots to act as scaffolding, they use evocations to light the pits at night, and healing magic to mend the bones of the laborers. Their research has turned what was previously the backbreaking labor of surfs into a worthwhile and comfortable career for those interested in sweating their brow. This sort of investment in the community allows for those who live here to spend their free time creating art, and pursuing other activities than the bare minimum to survive."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#river-veridia",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#river-veridia",
+    "title": "Veridia",
+    "section": "River Veridia",
+    "text": "River Veridia\nThis small river is the lifeblood of this town. River Veridia is infused with spring water from the peak of Mount Goldara which gives it minor fortifying properties. This passive magic in the water makes for hearty, adventurous folk who take challenges in stride as they know that they are likely to heal well and quickly with a bit of rest. The magic has little effect on passers through apart from feeling well rested for the path ahead, but for those who live their lives drinking from the stream it is the lifeblood of the community. There are many celebrations of the stream and it’s influence can be seen throughout the history of the town. Early battles for land are won through inexplicable feats of heroism, construction is done at lightning speed, and more technological innovation comes out of this city than anywhere else in the region. Many of the King’s advisors spend considerable time with the scholars of this town, and royalty has partnered with the town for export of the water for generations. Unfortunately for those who live down stream, and for the monarchy who imports it by the barrel, the river loses it’s fortifying properties over time so few outside of Veridia benefit from the magic. Even without it’s magic many with connections to the town carry the water with them in small pendants out of reverence for nature’s gift and all that it brings."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#festivals-and-celebrations",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#festivals-and-celebrations",
+    "title": "Veridia",
+    "section": "Festivals and Celebrations",
+    "text": "Festivals and Celebrations\nMany of the local celebrations focus on the natural splendor that surrounds the town.\n\nHarvest\nThanks to the fortifying properties of the river irrigated crops are hearty and plentiful.\n\n\nFirst Thaw\nAfter the, admittedly mild, winters experienced in Veridia before thawing locals will build small structures up river and as the ice breaks, freeing the structures, they place bets on which ones will make it past the city. Over time this project becomes more difficult as the city expands, so each year sub challenges are issues such as “most inventive construction”, “Crowd favorite”, and “Constructed from the most exotic materials”.\n\n\nRun of the Alpacas\nWhile most are characteristically black, white and brown, a special breed of Alpaca is raised in and around Veridia that bears pastel shades of wool ranging from pale blue to lavender! These colorful Alpacas are led through the streets by their caretakers as a celebration of the textiles made from their fur, and advanced animal husbandry required to raise them."
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#important-figures",
+    "href": "Locations/Dulthrotha Plateau/Kalderia/Veridia.html#important-figures",
+    "title": "Veridia",
+    "section": "Important Figures",
+    "text": "Important Figures\nKarish Thall - Governor of Kaldaria\nLlom Spaldar - Mayor of Veridia\nSignar Cobblerson - A druid who tends the river, and member of the city council\nMyda Paldia - Market planner, and festival lead\nKrugg Paster - Foreman of the clay pit\nEldric Stargazer - Powerful and reclusive wizard who lives just past the outskirts of town. He is occasionally seen on campus at the university.\nElra Greenborough - Master blacksmith and weapon crafter\nDerrin Flintlock - Chief of the Veridia fire department, and volunteer militia.\nBranathor Flintlock - Head librarian of the college\nElowen Thistlethorn - Chief Apothecary and city council member\nJogrin Stormrider - Cartographer, spelunking enthusiast, city council member\nLyra Oakthorn - Legendary Stonemason and city council member\nOrin Hells - Excellent tailor, works closely with Elra, baker on the side\nCaela Stonebreaker - Master healer and city Council Member"
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/The Ocean/The Dark Spire.html",
+    "href": "Locations/Dulthrotha Plateau/The Ocean/The Dark Spire.html",
+    "title": "The Dark Spire",
+    "section": "",
+    "text": "Erupting from the sea the Watcher’s tower looks over the waves. Rising above the jagged rocks that surround the tower the dark needle reaches towards the sky. Water flows from ports open in the outer walls and runs into the murky sea. Strange winged creatures fly about the tip of the spire striking at those who would attempt an approach by air. The tower seems to be constructed from a sort of black stone. Irregularly shaped blocks co-mingle to give the facade a jagged and rough appearance that gradually smooths the higher up you look. At night bright lights stream from nearly every crack or window in the massive structure and if you watch closely you can see large figures occasionally passing by the windows.\n\n\nThe Watchers themselves have few confirmed sightings, but many afflicted with its curse report visions of a towering many armed figure cloaked in a billowing ragged garb with a single massive eye underneath a hood. It is typically described among shelves of books in a brightly lit library. What is certain about the creature is that it has constructed its lair around a Spring, and that those who approach its lair more often than not come away cursed by The Watchers to bear their mark.\nWithout first hand accounts it is difficult to say if there is a single creature that inhabits this tower, or if there are many of these entities tending their library. This is a matter of contentious debate for those few scholars who study the curse.\n\n\nThose who bear The Watchers’ mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered, with no predictability to it, the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.\n\n\n\n\n\n\nImage Created with Stable Diffusion"
+  },
+  {
+    "objectID": "Locations/Dulthrotha Plateau/The Ocean/The Dark Spire.html#the-watchers",
+    "href": "Locations/Dulthrotha Plateau/The Ocean/The Dark Spire.html#the-watchers",
+    "title": "The Dark Spire",
+    "section": "",
+    "text": "The Watchers themselves have few confirmed sightings, but many afflicted with its curse report visions of a towering many armed figure cloaked in a billowing ragged garb with a single massive eye underneath a hood. It is typically described among shelves of books in a brightly lit library. What is certain about the creature is that it has constructed its lair around a Spring, and that those who approach its lair more often than not come away cursed by The Watchers to bear their mark.\nWithout first hand accounts it is difficult to say if there is a single creature that inhabits this tower, or if there are many of these entities tending their library. This is a matter of contentious debate for those few scholars who study the curse.\n\n\nThose who bear The Watchers’ mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered, with no predictability to it, the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.\n\n\n\n\n\n\nImage Created with Stable Diffusion"
+  },
+  {
+    "objectID": "Resources/Helpful Links.html",
+    "href": "Resources/Helpful Links.html",
+    "title": "Helpful Links",
+    "section": "",
+    "text": "General Resources\n\nArchives of Nethys\nLearn to play pathfinder youtube series\n\n\n\nCheat Sheets\n\nPathfinder 2 Easy\nAction Cheat Sheets\nConditions"
   },
   {
     "objectID": "Resources/Pathfinder Crash Course/Learn Pathfinder Presentation.html#topics",
@@ -1134,143 +1442,10 @@
     "text": "Describing Heroic Deeds\nBecause spending Hero Points reflects heroic deeds or tasks that surpass normal expectations, if you spend a Hero Point, you should describe the deed or task your character accomplishes with it to the other players"
   },
   {
-    "objectID": "Resources/Helpful Links.html",
-    "href": "Resources/Helpful Links.html",
-    "title": "Helpful Links",
+    "objectID": "Resources/Tools I Use.html",
+    "href": "Resources/Tools I Use.html",
+    "title": "Tools I Use for Running the Game",
     "section": "",
-    "text": "General Resources\n\nArchives of Nethys\nLearn to play pathfinder youtube series\n\n\n\nCheat Sheets\n\nPathfinder 2 Easy\nAction Cheat Sheets"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mynara-Archives",
-    "section": "",
-    "text": "This site is for hosting Lincoln Stoel’s Pathfinder 2e campaign setting. This site is very much “in progress”, but please feel free to browse around."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This site is for hosting Lincoln Stoel’s Pathfinder 2e campaign setting. Please feel free to browse around."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Rancid Bogs of Hjelld.html",
-    "href": "Locations/Hjelld/The Rancid Bogs of Hjelld.html",
-    "title": "The Rancid Bogs of Hjelld",
-    "section": "",
-    "text": "Once a prosperous wetland where wild rice was harvested by locals and all sorts of natural creatures frolicked the area now known as the Bogs of Hjelld are no place for living creatures. Created by dark magic the land has been poisoned and cursed. A fetid stink of rotting plant matter and animal flesh fills the air, and poisonous swamp gas bubbles from underneath the surface. While many hostile undead creatures wander this bog none is as fearsome as the Blighted Behemoth. This creature stands guardian over the corrupted spring that feeds the curse and quickly dispatches any adventurers foolish enough to venture into its domain…\n\n\nStanding tens of feet tall this massive creature has unparalleled strength and dexterity. It moves through the bog with unmatched quickness and force. The Behemoth’s arms are the width of tree trunks, and it’s legs are twice that, blackened skin sloughs off of its body with every movement as new rancid flesh grows to take its place before meeting a similar fate. The creature stands on hind legs, but seems to amble through the swamp much like an orangutan. It’s long arms launch the creature from stone outcroppings, to large dead trees, to unsuspecting prey. Its neck is nearly the same width as it’s chest and it’s face is nearly featureless aside from A large maw lined with needle teeth and a long nose that ends with a ring of short tentacles reminiscent of a star nosed mole. Those who have faced down the creature and lived say that your only means of escape is to land a solid blow on its facial tentacles and disorient the creature long enough to flee."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Rancid Bogs of Hjelld.html#the-blighted-behemoth",
-    "href": "Locations/Hjelld/The Rancid Bogs of Hjelld.html#the-blighted-behemoth",
-    "title": "The Rancid Bogs of Hjelld",
-    "section": "",
-    "text": "Standing tens of feet tall this massive creature has unparalleled strength and dexterity. It moves through the bog with unmatched quickness and force. The Behemoth’s arms are the width of tree trunks, and it’s legs are twice that, blackened skin sloughs off of its body with every movement as new rancid flesh grows to take its place before meeting a similar fate. The creature stands on hind legs, but seems to amble through the swamp much like an orangutan. It’s long arms launch the creature from stone outcroppings, to large dead trees, to unsuspecting prey. Its neck is nearly the same width as it’s chest and it’s face is nearly featureless aside from A large maw lined with needle teeth and a long nose that ends with a ring of short tentacles reminiscent of a star nosed mole. Those who have faced down the creature and lived say that your only means of escape is to land a solid blow on its facial tentacles and disorient the creature long enough to flee."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Phantasm Forest.html",
-    "href": "Locations/Hjelld/The Phantasm Forest.html",
-    "title": "The Phantasm Forest",
-    "section": "",
-    "text": "Deep beyond the groves of trees in the highlands of Hjelld the Phantasm Forest rests holding the secrets of travelers safe until such a time they are required by another. It is said that there is no better way to learn if your traveling companions are reliable than to rest underneath the canopy of pale yellow leaves of these shimmering trees. As travelers pass through the woods they witness visions of the lives and memories of previous travelers while leaving impressions of their own behind. These echoes of time may reveal truths of the realm, or guide adventurers to long forgotten treasures of ages past. However, the forest gives as much as it takes and those who venture into the forest must be without secret or shame unless they would leave these thoughts behind for others to view. Over time as the memories of those who pass are concentrated within the leaves of these trees they are slowly transformed into parchment like sheets bearing tales of events long passed. The veins form lines of swirling text written in a language unique to the forest, and often adopted by those who study the arcane, that chronicle the memories contained within. These leaves are prized by mages and scholars for their magical properties and historical relevance respectively. One would think that these chronicles would be born of the recollection of a single individual, or jumbled inarticulate ramblings of several unrelated memories, however the forest seems to distribute the memories that are gathered in a sort of natural library. Before a leaf is released from the canopy the forest must be satisfied that a full telling of a story is captured, only then will the abscission of the leaf occur. The wood seldom bothers with malicious or magnanimous action, however a way to guarantee that your memories never escape the forest is to prematurely harvest a leaf from the boughs of the greenwood. If a leaf is pulled from it’s node before it’s tale is captured the very earth will quake as The Warden excises your soul from your flesh.\n\n\nRising high through the canopies stands a magnificent gnarled tree weaved from the boughs of numerous intertwined aspen known as the Warden of the Phantasm Forest. This central Godwood’s roots are the foundation that every tree in the wood grows from. The Warden stands in silent guardianship of the forest and will happily converse with travelers who seek guidance in good faith, but is equally eager to snuff the fire that burns within those who would do harm to the forest or interrupt their stories. As well as guardian, The Warden serves the additional role as the collector of the completed stories. As the leaves fall from the Phantasm Forest’s canopy they degrade and the knowledge is captured in the roots of The Warden. While the warden abhors the interruption of their stories, if a traveler gathers up fallen leaves and reads the text marked upon them The Warden is happy to move branches, uplift roots, and subtly manipulate the landscape to create a comfortable space to read. The bargain struck with The Warden in that moment that a leaf is gathered requires that once the reader has finished that the leaf be left behind among the underbrush of the forest. Unlike many guardians who came upon a spring and became enthralled by the power that it offers there is no surface geyser that the magic imbued water erupts from in this forest. That’s not to say that the shimmering pools of the forest aren’t imbued with their own power, it is that these pools were not exposed until the roots of the forest drank from the aquifer below. While it is impossible to know for certain, it is believed that this magical forest first came about when the roots of The Warden, before it was known as The Warden of course, first pulled the magic from the earth to the surface.\n\n\n\nAmong the trees of this magnificent forest reside a variety of creatures that co-exist in this safe place. Many animals who live within the forest find themselves awakened and gifted a foundation of memories from a benevolent traveler to build their understanding around. In more exceptional cases plants that are not integrated into the Warden’s root system find themselves similarly awakened. While not all awakened creatures are gifted with enlightened intellect those who know their language may find that even the lowliest of rodent has the capacity for more enlightened conversation. While The Warden is not all knowing within the bounds of it’s forest it is through the friendship with it’s denizens that it has eyes. Also among the underbrush are specters that, contrary to common wisdom, are not true ghosts. The distinction between these ghostly entities and true incorporeal undead is that these renderings do not have their origins in the realm of spirits and rather the realm of memories and the mind. Because the forest is less concerns with the actions of individuals than it is with events and narratives these “spirits” are not absorbed into The Warden’s collection. Particularly powerful memories of individuals can manifest as shimmering phantasms in their likeness as depicted by the memories of others. As you wander the grove you may find yourself face to face with heroes and leaders of nations, but not as they actually were rather finding them as how they were remembered.\n\n\n\nOnce manifested these phantasms take agency over their experience and the older phantasms may evolve and become unrecognizable from the memories that bore them. One may come across a specter that began as a leader of a nation, but now holds the visage of a humble rabbit. Or perhaps meet the menacing beast that came from a spirit once known best for its amenability. It is best not to treat the specters as recordings of individuals long passed but rather as their own entity.\n\n\n\nThose who wander may come across nourishing fruits of the forest. When presented with these gifts one is best to accept as the forest gives these gifts not only of fulfillment of body, but also of mind. Each berry, apple, or nettle is imbued with knowledge that The Warden has deemed you worthy of and when eaten will instantly grant you understanding. Occasionally these gifts contain the knowledge of how to approach the central clearing that The Warden inhabits So as to allow you a more extended audience with the forest. Without specific guidance from the forest even the most adept navigators will find themselves always on the edge of the warden’s glade but never able to peer within."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Phantasm Forest.html#the-warden",
-    "href": "Locations/Hjelld/The Phantasm Forest.html#the-warden",
-    "title": "The Phantasm Forest",
-    "section": "",
-    "text": "Rising high through the canopies stands a magnificent gnarled tree weaved from the boughs of numerous intertwined aspen known as the Warden of the Phantasm Forest. This central Godwood’s roots are the foundation that every tree in the wood grows from. The Warden stands in silent guardianship of the forest and will happily converse with travelers who seek guidance in good faith, but is equally eager to snuff the fire that burns within those who would do harm to the forest or interrupt their stories. As well as guardian, The Warden serves the additional role as the collector of the completed stories. As the leaves fall from the Phantasm Forest’s canopy they degrade and the knowledge is captured in the roots of The Warden. While the warden abhors the interruption of their stories, if a traveler gathers up fallen leaves and reads the text marked upon them The Warden is happy to move branches, uplift roots, and subtly manipulate the landscape to create a comfortable space to read. The bargain struck with The Warden in that moment that a leaf is gathered requires that once the reader has finished that the leaf be left behind among the underbrush of the forest. Unlike many guardians who came upon a spring and became enthralled by the power that it offers there is no surface geyser that the magic imbued water erupts from in this forest. That’s not to say that the shimmering pools of the forest aren’t imbued with their own power, it is that these pools were not exposed until the roots of the forest drank from the aquifer below. While it is impossible to know for certain, it is believed that this magical forest first came about when the roots of The Warden, before it was known as The Warden of course, first pulled the magic from the earth to the surface."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Phantasm Forest.html#the-underbrush",
-    "href": "Locations/Hjelld/The Phantasm Forest.html#the-underbrush",
-    "title": "The Phantasm Forest",
-    "section": "",
-    "text": "Among the trees of this magnificent forest reside a variety of creatures that co-exist in this safe place. Many animals who live within the forest find themselves awakened and gifted a foundation of memories from a benevolent traveler to build their understanding around. In more exceptional cases plants that are not integrated into the Warden’s root system find themselves similarly awakened. While not all awakened creatures are gifted with enlightened intellect those who know their language may find that even the lowliest of rodent has the capacity for more enlightened conversation. While The Warden is not all knowing within the bounds of it’s forest it is through the friendship with it’s denizens that it has eyes. Also among the underbrush are specters that, contrary to common wisdom, are not true ghosts. The distinction between these ghostly entities and true incorporeal undead is that these renderings do not have their origins in the realm of spirits and rather the realm of memories and the mind. Because the forest is less concerns with the actions of individuals than it is with events and narratives these “spirits” are not absorbed into The Warden’s collection. Particularly powerful memories of individuals can manifest as shimmering phantasms in their likeness as depicted by the memories of others. As you wander the grove you may find yourself face to face with heroes and leaders of nations, but not as they actually were rather finding them as how they were remembered."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Phantasm Forest.html#phantasms",
-    "href": "Locations/Hjelld/The Phantasm Forest.html#phantasms",
-    "title": "The Phantasm Forest",
-    "section": "",
-    "text": "Once manifested these phantasms take agency over their experience and the older phantasms may evolve and become unrecognizable from the memories that bore them. One may come across a specter that began as a leader of a nation, but now holds the visage of a humble rabbit. Or perhaps meet the menacing beast that came from a spirit once known best for its amenability. It is best not to treat the specters as recordings of individuals long passed but rather as their own entity."
-  },
-  {
-    "objectID": "Locations/Hjelld/The Phantasm Forest.html#fruits-of-the-forest",
-    "href": "Locations/Hjelld/The Phantasm Forest.html#fruits-of-the-forest",
-    "title": "The Phantasm Forest",
-    "section": "",
-    "text": "Those who wander may come across nourishing fruits of the forest. When presented with these gifts one is best to accept as the forest gives these gifts not only of fulfillment of body, but also of mind. Each berry, apple, or nettle is imbued with knowledge that The Warden has deemed you worthy of and when eaten will instantly grant you understanding. Occasionally these gifts contain the knowledge of how to approach the central clearing that The Warden inhabits So as to allow you a more extended audience with the forest. Without specific guidance from the forest even the most adept navigators will find themselves always on the edge of the warden’s glade but never able to peer within."
-  },
-  {
-    "objectID": "Locations/The Ocean/The Dark Spire.html",
-    "href": "Locations/The Ocean/The Dark Spire.html",
-    "title": "The Dark Spire",
-    "section": "",
-    "text": "Erupting from the sea the Watcher’s tower looks over the waves. Rising above the jagged rocks that surround the tower the dark needle reaches towards the sky. Water flows from ports open in the outer walls and runs into the murky sea. Strange winged creatures fly about the tip of the spire striking at those who would attempt an approach by air. The tower seems to be constructed from a sort of black stone. Irregularly shaped blocks co-mingle to give the facade a jagged and rough appearance that gradually smooths the higher up you look. At night bright lights stream from nearly every crack or window in the massive structure and if you watch closely you can see large figures occasionally passing by the windows.\n\n\nThe Watchers themselves have few confirmed sightings, but many afflicted with its curse report visions of a towering many armed figure cloaked in a billowing ragged garb with a single massive eye underneath a hood. It is typically described among shelves of books in a brightly lit library. What is certain about the creature is that it has constructed its lair around a Spring, and that those who approach its lair more often than not come away cursed by The Watchers to bear their mark.\nWithout first hand accounts it is difficult to say if there is a single creature that inhabits this tower, or if there are many of these entities tending their library. This is a matter of contentious debate for those few scholars who study the curse.\n\n\nThose who bear The Watchers’ mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered, with no predictability to it, the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.\n\n\n\n\n\n\nImage Created with Stable Diffusion"
-  },
-  {
-    "objectID": "Locations/The Ocean/The Dark Spire.html#the-watchers",
-    "href": "Locations/The Ocean/The Dark Spire.html#the-watchers",
-    "title": "The Dark Spire",
-    "section": "",
-    "text": "The Watchers themselves have few confirmed sightings, but many afflicted with its curse report visions of a towering many armed figure cloaked in a billowing ragged garb with a single massive eye underneath a hood. It is typically described among shelves of books in a brightly lit library. What is certain about the creature is that it has constructed its lair around a Spring, and that those who approach its lair more often than not come away cursed by The Watchers to bear their mark.\nWithout first hand accounts it is difficult to say if there is a single creature that inhabits this tower, or if there are many of these entities tending their library. This is a matter of contentious debate for those few scholars who study the curse.\n\n\nThose who bear The Watchers’ mark are characterized by one or more bulbous eyes sprouting from their skin. Many cursed in this way cover the eye with a bandana when they leave the house, however many report that if they leave the covered, with no predictability to it, the eye will cause a searing pain until the covering is removed. Many believe that when The Watchers chooses to peer through these growths and finds them darkened he induces this pain to clear its vision.\n\n\n\n\n\n\nImage Created with Stable Diffusion"
-  },
-  {
-    "objectID": "Locations/Kalderia/Veridia.html",
-    "href": "Locations/Kalderia/Veridia.html",
-    "title": "Veridia",
-    "section": "",
-    "text": "Welcome to Veridia!\n\n\n\nWelcome to Veridia, a small city nestled in the highland cliffs and ancient woodlands of Kaldaria. Here, the heart of the town resonates with the harmonious blend of artistic mastery and the pursuit of knowledge. Veridia is renowned for its flourishing clay industry, where skilled artisans mold the rich earth into exquisite pottery and intricate sculptures. Travelers from all over go out of their way to tour the gorgeous architecture of the Academic college. Enveloped by lush gardens, and featuring magnificent sculptures, the college’s architecture beckons scholars and inquisitive minds. Within its walls scholars of all creeds delve deep into the secrets of the world. The marketplace bustles with the vibrant colors of imported wares and textiles, while the town square becomes a stage for festivals that honor art and the spirit of creativity. Yet, beneath this tranquil exterior, a world of mysteries awaits within the woods and cliffs that surround the city, enticing adventurers and explorers. At the top of the highest cliff of the surrounding hills is a magical spring that flows into and endows the river moving through the valley with minor constitution fortifying properties. The sick and elderly will make pilgrimages up the stream that feeds into the river to drink from falls closer to the source in hopes of curing their ailments. However those that journey higher up the mountain seldom make it to the summit. It is rumored that atop the mountain sleeps a shimmering frog-like beast who’s life stretches back to when the mountains were young. Those who claim to have met this beast say that it spoke to them of these ancient times and explained secrets of the world. Many university students, enthralled by this legend, attempt the journey, but seldom make it even a fraction of the way up as the path is beset by hazards and monsters strengthened by drinking from the stream."
-  },
-  {
-    "objectID": "Locations/Kalderia/Veridia.html#veridia-college-of-arcane-science-and-the-arts",
-    "href": "Locations/Kalderia/Veridia.html#veridia-college-of-arcane-science-and-the-arts",
-    "title": "Veridia",
-    "section": "Veridia College of Arcane Science and the Arts",
-    "text": "Veridia College of Arcane Science and the Arts\nThe College that draws so many tourists to the town is not only an architectural marvel, but a thriving center of scientific and arcane research. While practitioners of magic are not uncommon, the main purpose of their study is to understand and find ways to use both magic and science together to better the lives of their neighbors. This has seen application most notably in the clay mines. By utilizing natural magic they coax tree roots to act as scaffolding, they use evocations to light the pits at night, and healing magic to mend the bones of the laborers. Their research has turned what was previously the backbreaking labor of surfs into a worthwhile and comfortable career for those interested in sweating their brow. This sort of investment in the community allows for those who live here to spend their free time creating art, and pursuing other activities than the bare minimum to survive."
-  },
-  {
-    "objectID": "Locations/Kalderia/Veridia.html#river-veridia",
-    "href": "Locations/Kalderia/Veridia.html#river-veridia",
-    "title": "Veridia",
-    "section": "River Veridia",
-    "text": "River Veridia\nThis small river is the lifeblood of this town. River Veridia is infused with spring water from the peak of Mount Goldara which gives it minor fortifying properties. This passive magic in the water makes for hearty, adventurous folk who take challenges in stride as they know that they are likely to heal well and quickly with a bit of rest. The magic has little effect on passers through apart from feeling well rested for the path ahead, but for those who live their lives drinking from the stream it is the lifeblood of the community. There are many celebrations of the stream and it’s influence can be seen throughout the history of the town. Early battles for land are won through inexplicable feats of heroism, construction is done at lightning speed, and more technological innovation comes out of this city than anywhere else in the region. Many of the King’s advisors spend considerable time with the scholars of this town, and royalty has partnered with the town for export of the water for generations. Unfortunately for those who live down stream, and for the monarchy who imports it by the barrel, the river loses it’s fortifying properties over time so few outside of Veridia benefit from the magic. Even without it’s magic many with connections to the town carry the water with them in small pendants out of reverence for nature’s gift and all that it brings."
-  },
-  {
-    "objectID": "Locations/Kalderia/Veridia.html#festivals-and-celebrations",
-    "href": "Locations/Kalderia/Veridia.html#festivals-and-celebrations",
-    "title": "Veridia",
-    "section": "Festivals and Celebrations",
-    "text": "Festivals and Celebrations\nMany of the local celebrations focus on the natural splendor that surrounds the town.\n\nHarvest\nThanks to the fortifying properties of the river irrigated crops are hearty and plentiful.\n\n\nFirst Thaw\nAfter the, admittedly mild, winters experienced in Veridia before thawing locals will build small structures up river and as the ice breaks, freeing the structures, they place bets on which ones will make it past the city. Over time this project becomes more difficult as the city expands, so each year sub challenges are issues such as “most inventive construction”, “Crowd favorite”, and “Constructed from the most exotic materials”.\n\n\nRun of the Alpacas\nWhile most are characteristically black, white and brown, a special breed of Alpaca is raised in and around Veridia that bears pastel shades of wool ranging from pale blue to lavender! These colorful Alpacas are led through the streets by their caretakers as a celebration of the textiles made from their fur, and advanced animal husbandry required to raise them."
-  },
-  {
-    "objectID": "Locations/Kalderia/Veridia.html#important-figures",
-    "href": "Locations/Kalderia/Veridia.html#important-figures",
-    "title": "Veridia",
-    "section": "Important Figures",
-    "text": "Important Figures\nKarish Thall - Governor of Kaldaria\nLlom Spaldar - Mayor of Veridia\nSignar Cobblerson - A druid who tends the river, and member of the city council\nMyda Paldia - Market planner, and festival lead\nKrugg Paster - Foreman of the clay pit\nEldric Stargazer - Powerful and reclusive wizard who lives just past the outskirts of town. He is occasionally seen on campus at the university.\nElra Greenborough - Master blacksmith and weapon crafter\nDerrin Flintlock - Chief of the Veridia fire department, and volunteer militia.\nBranathor Flintlock - Head librarian of the college\nElowen Thistlethorn - Chief Apothecary and city council member\nJogrin Stormrider - Cartographer, spelunking enthusiast, city council member\nLyra Oakthorn - Legendary Stonemason and city council member\nOrin Hells - Excellent tailor, works closely with Elra, baker on the side\nCaela Stonebreaker - Master healer and city Council Member"
-  },
-  {
-    "objectID": "Factions/Fleshwarpers.html",
-    "href": "Factions/Fleshwarpers.html",
-    "title": "Fleshwarpers",
-    "section": "",
-    "text": "Bio modification\nThe Fleshwarpers are a deviant branch of the Biocrafters that have forsaken the ethical principle that prohibits the twisting of flesh and bone and embrace the mediums of muscle and sinew to create bio augmentations, tools, and even vehicles that rely on flesh."
-  },
-  {
-    "objectID": "Factions/Biocrafters.html",
-    "href": "Factions/Biocrafters.html",
-    "title": "Biocrafters",
-    "section": "",
-    "text": "Bio Manipulation\nBiocrafters are artificers that work with plant and fungal matter to create tools, vehicles, buildings, etc. out of living bio materials. This is accomplished through a complex blending of scientific manipulation and primal magic."
-  },
-  {
-    "objectID": "Factions/Traders.html",
-    "href": "Factions/Traders.html",
-    "title": "Trader Guild",
-    "section": "",
-    "text": "A Guild of Travelers\nFractured by the collapse of empire the islands of these seas saw shipping lanes dry up and supplies dwindle. As towns suffered and entire governorships crumbled, the traders stepped in. A neutral party governed by a simple code of ethics and a central committee this trader guild filled the vacuum left by the disappearance of imperial supply ships.\nTraders are best known for being brave rogues who venture into dangerous territory to open trade routes with those in need.\n\n\nLeyline Compass\nThe world of Mynara is not able to be navigated via traditional means. While the planet does have magnetic poles, the Ley lines that invisibly criss-cross the world interfere with traditional compasses. A special kind of vision is required to see and follow the Ley lines between landmasses and ports. The traders partner with the Fleshwarpers to provide implants that allow their navigators to direct their ships. There are artifacts that can visualize Ley lines, and clerics of Ultheria are also able to navigate these seas, however for the apolitical and a-religious organization of the traders it is more sustainable to rely on bio augmentation.\n\n\nCode of Ethics\n\nDo not get involved in local politics\nDo not trade where you are not welcome\nDo not allow your own ethics to get in the way of the right deal\nDo not trade in slaves\nDo not trade with slavers\nDo not arm your vessel with weapons"
+    "text": "Foundry VTT\n\nPaizo Foundry Bestiary Token Pack\nDuck DNS for keeping a static IP address for my foundry server\n\nI used this tutorial to set it up on a raspberry pi that I had sitting around running Pi-hole\n\n\nDiscord\nObsidian\n\nObsidian is the single greatest thing to ever happen to my session prep notes. Love this program. The canvas feature is particularly excellent for dungeon design.\n\nDungeon Scrawl\nEncounter Building\nStable Diffusion running locally for quick AI images for NPCs, tokens, etc.\nAffinity Designer/Photo for map design\n\nShout out to Map Effects for their excellent brushes. I use their stamp brushes any time I need a map, but don’t want to spend the time hand drawing every single tree and patch of grass.\nI also really like the infinite pulp texture set for making the maps look like they were made as paper\n\n\n\nTools I use for sharing campaign info\n\nQuarto and RStudio for making this website\nQuarto Pub for hosting this site\nGithub for version management of this site"
   }
 ]

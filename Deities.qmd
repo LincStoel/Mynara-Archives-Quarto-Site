@@ -2,7 +2,7 @@
 
 ## Divine Origin
 
-Many gods arose as their domain formed in the world. Unome, Elemental Confluence, for example, manifested from the confluence of the four elements in the material plane, Bolgrod The Annihilator existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac the Weary was created after the first warriors were left behind alone and broken in the fields of battle, and Scios God of Craft and Mining was created as clerics of Unai, Origin of Life focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation. 
+Many gods arose as their domain formed in the world. Unome, for example, manifested from the confluence of the four elements in the material plane, Bolgrod existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac was created after the first warriors were left behind alone and broken in the fields of battle, and Scios was created as clerics of Unai focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.
 
 ### Ascention
 
@@ -99,7 +99,7 @@ Light hammer and Light Pick
 
 ## Notable history
 
-It is widely debated if Ardensia qualifies as an ascendant deity. Arden's I was not a mortal, or even a creature at all. Once a vast city Ardensia spanned coast to coast on a larger island before an astral impact leveled most of the structures and caused great waves to wash away the city. A testament to what can be accomplished by the combined efforts of mortals and a well designed metropolis it is said that in their simultaneous deat the spirits of Adensians united in death and gave rise to the god of cities. Shortly after the fall of this great city mortals lurched forward in their colonization of the plane. Inspired by visions of a vast metropolis what were once small towns were spurred to expand. It is said that without Ardensia's influence the mortals of the material plane would be nothing more that warring tribes. Ardensia's clerics often find themselves as city planners, architects, and crafts folk dedicated to the growth and function of their city.
+It is widely debated if Ardensia qualifies as an ascendant deity. Ardensia was not a mortal, or even a creature at all. Once a vast city Ardensia spanned coast to coast on a larger island before an astral impact leveled most of the structures and caused great waves to wash away the city. A testament to what can be accomplished by the combined efforts of mortals and a well designed metropolis it is said that in their simultaneous death the spirits of Adensians united in death and gave rise to the god of cities. Shortly after the fall of this great city mortals lurched forward in their colonization of the plane. Inspired by visions of a vast metropolis what were once small towns were spurred to expand. It is said that without Ardensia's influence the mortals of the material plane would be nothing more that warring tribes. Ardensia's clerics often find themselves as city planners, architects, and crafts folk dedicated to the growth and function of their city.
 
 # Bolgrod The Annihilator
 
@@ -110,8 +110,6 @@ It is widely debated if Ardensia qualifies as an ascendant deity. Arden's I was 
 Void
 - Darkness
 - Destruction
-- Nature
-- Fate
 
 ## Edicts
 
@@ -121,8 +119,7 @@ Void
 
 ## Anathemas
 
-- Engage in purposeless necromancy or animation of objects
-- Waste resources or participate in gluttony
+- Creation
 
 ## Devotee Benefits
 
@@ -916,3 +913,46 @@ Dagger
 ## Notable history
 
 Battle healers, Would be rescuers, those who have been harmed and continue to be in harm's way are all within the domain of Zehlt. Zehlt empowers their champions with divine might to provide help wherever needed; be it deep within the bowels of the earth, or high in the mountains Zhelt's clerics will find you to provide aid. Unlike #Dylgrac's disciples who focus on helping the wounded, Zhelt's healers carry medicine in one hand and a blade in the other. For Zhelt's chosen it is equally important to heal the wounds, but also punish those who opened them.
+
+# Zerderak, Unwelcome Guide
+
+#Zerderak
+
+## Domains
+
+- Fate
+- Magic
+
+## Edicts
+
+- Play the hand you are dealt, do not fight destiny
+- The stick is a much better motivator than the carrot
+- The ends justify the means
+
+## Anathemas
+
+- Denial of your own, or another's destiny
+- Curses without purpose
+- Removal of a curse before it has run its course
+
+## Devotee Benefits
+
+### Divine Font
+
+Harm
+
+### Divine Skill
+
+Occult
+
+### Favored weapon
+
+Meteor Hammer
+
+### Cleric Spells
+
+1st: Bane; 3rd; Blindness; 6th: Baleful Polymorph
+
+## Notable history
+
+Zerderak's guidance is seldom appreciated, and even more rarely immediately helpful. Where other gods may open doors for their followers, Zerderak will close them until there is only a single path to take. Zerderak sees the past, present, and future of all sentient creatures and leverages horrible curses to guide them towards their ultimate destiny. Truly Zerderak has the insterest of the accursed at the forefront of her priorities, however she ccares little for the short term pain inflicted upon them.

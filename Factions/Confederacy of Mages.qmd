@@ -1,0 +1,139 @@
+---
+title: Confederacy of Mages
+---
+
+# The Confederation of Mages
+
+This organization is one of the more well governed groups and has members scattered across all the known lands where there is magical phenomenon to be investigated. Governed by the council of archmages, the mages most well versed in their chosen discipline, the archmages determine the edicts for their order and may call upon their colleagues to address concerns that impact all mages. Generally the mages have few true anathemas, but share a common set of rules that they must all uphold if they want to access the resources of the league.
+
+## Schools of Magic & Their Archmage
+
+It is worth noting that many mages dabble in all schools of magic. Those who become acolytes of a single school are of a particularly single minded sort, and often pick of strange idiosyncrasies from their studies.
+
+### Abjuration
+
+#### Valta, Light Warder of Astra
+
+Best known for her gleaming suit of ethereal armor that hums with magical energy, Valta is the archmage that governs Abjurers world abound. Valta's tower is beyond approach. Those who have challenged her find themselves trapped in a quagmire of wards and arcane traps that often toe the line of cruelty. Those who live near the tower tell stories to their children of a would be bandit who was foolish enough to approach uninvited who can still be found trapped in a temporal crystal unaware that an unknowable amount of time has passed since he stumbled into the ward and ignorant that he will never reach his destination.
+
+#### Edicts
+
+- Preparation is always preferred over improvising
+- Those who fall victim to a lack of foresight deserve the consequences and should only be rescued if they would not survive to learn from their failure
+- Caution is inversely proportional to the level which you were able to prepare
+
+#### Anathemas
+
+- Recklessness
+- Inattention to detail
+- Wastefulness
+
+### Conjuration
+
+#### Ederbran, Nexus Bridge
+
+Ederbran is best known for his fortress accessible via the nexus of 3 or more leylines. Ederbran appears capable of coercing entities from any plane or realm into his service and does so with vigorous enthusiasm. Within his palace he takes great pleasure in showcasing his museum which is home to exotic creatures and entities from beyond the known realms.
+
+### Divination
+
+#### Ceriana, High Seeress
+
+Ceriana rarely appears at the council, but when she does attend these gatherings it signifies to the other mages that the decisions made that day are of long term importance. Ceriana's distance and near silence is thought to be due to her near omnipotence of event and the crushing weight of responsibility that rests on her shoulders. It more often than not seems that ascending to the status of archmage in the school of Divination is a source of never ending torment for those who pursue this magic.
+
+#### Edicts
+
+- Interfere with the natural course of events only where the alternative is worse for all in the long term
+- Peer into the future only to the extent that your mind is capable of reckoning
+
+#### Anathemas
+
+- Using divinations for personal gain at the detriment of others
+- Needlessly sharing your visions with those that they impact when they are incapable of changing the outcome
+
+### Enchantment
+
+#### Morvain, Enchanter Major of the Selescan Isles
+
+Morvain's appearance is that of a drunken tailor. Their clothing is a variety of mismatched garments that all seem to glimmer and crackle with energy like some kind of arcane static electricity. The colors and intensity of this energy seems to change and shift with Morvain's demenor.
+
+#### Edicts
+
+- Seek Consent before enchanting another creature
+- Curses must always be able to be undone
+- Enchantments must always bear a distinguishing signature so that in the event that they must be corrected the caster is known
+
+#### Anathemas
+
+- Reckless use of enchantments
+- Enchanting a creature not capable of understanding the effects of the enchantment
+- Disproportionate use of curses to the slight commited 
+
+### Evocation
+
+#### Pyrell, Fury of the Elements
+
+Pyrell has been worshipped as a god by many of the uneducated masses that she has encountered as she follows storms and tempers volcanos. Pyrell uses her command of energy to seek out and protect sites of magical significance from harmful powers. Many of the communities around these sites view her as their savior, little to their knowledge they just happened to live near a temple on a ley line nexus, or live above an arcane imbued aquifer.
+
+#### Edicts
+
+- Exert your control over energy to perfect your environment
+- Protect ley line nexus at all costs
+
+#### Anathemas
+
+- Destruction of magical sites and artifacts
+- Removal of magical defenses without replacing them
+- yielding control
+
+### Illusion
+
+#### Maribelle, Lady of False Visions
+
+Maribelle, which is assumed to be her true name, is truly a composite of different facades. It is unknown what her true appearance is, what her voice sounds like, or even what ancestry she is a descendent of. When she does appear is is difficult to tell if she is even physically present. Maribelle frequently sends avatars to do her work. While she seems to speak through them and influence events directly by their hands the litany of illusions spun to create their likeness blurs the lines between illusion and reality to such and extent that these avatars may as well be physical entities.
+
+#### Edicts
+
+- Give away as little information as possible to those who would do you harm
+- Always substitute lies where the truth is unnecessary 
+
+#### Anathemas
+
+- Endanger yourself when an illusion will do
+- Rely on an illusion where simple deception would better serve
+
+### Necromancy
+
+#### Tharogrim Lord of Graves and Mortuary Artificer
+
+Tharogrim is a most unsettling individual to most, his skin is pale grey from funeral ash, and he has several "prosthetic" limbs grafted from a variety of creatures. It is little wonder that the mages of other schools tend to avoid Necromancers. Disregarding the edicts of the undead gods, Tharogrim crafts magical dynamos that function as beating hearts for his creations. A connoisseur of both sentient and non sentient undead Tharogrim is an expert at matching form to function. Viewing necromancy as a form of recycling, and graveyards as scrap heaps, the visage of the arcane horrors that bear these necromantic dynamos is often sufficient to give the faint of heart reason to collapse.
+
+#### Edicts
+
+- Waste nothing that couldn't be reused
+- Undead creations must have a purpose
+- Reject the restrictive teachings of clerics
+
+#### Anathemas
+
+- Trapping unwilling souls into undead forms needlessly
+- Leaving undead unsupervised
+- Divulging secrets of arcane necromancy to clerics
+
+### Transmutation
+
+#### Aurellius, Shaper of the Shifting Sands
+
+Aurellius calls the sands of Aroquell home. Known for creating vast glass sculptures and crystal fortresses Aurellius' fondness for sand as a medium for transmutation is obvious. Strangely Aurellius insists that he will never use transmutation to create valuables, though when challenged he has been known to turn whole palaces to solid gold, only to change them to brittle sandstone a minute later to prove his point. It is often unclear what of Aurellius' appearance is natural. His features have an otherworldly beauty to them and his clothing shimmers like diamonds, with the texture of silk.
+
+#### Edicts
+
+- What can be improved must be
+- Value is only a fixed property to those who cannot shape the world
+- Nothing is immutable, change is inevitable
+
+#### Anathemas
+
+- Unwillingness to change
+- Unwillingness to sacrifice for a goal
+- Sentimentality towards objects
+
