@@ -2,4 +2,5 @@
 title: Biocrafters
 ---
 # Bio Manipulation
+
 Biocrafters are artificers that work with plant and fungal matter to create tools, vehicles, buildings, etc. out of living bio materials. This is accomplished through a complex blending of scientific manipulation and primal magic.

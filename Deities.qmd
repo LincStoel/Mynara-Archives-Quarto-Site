@@ -2,11 +2,15 @@
 
 ## Divine Origin
 
+<<<<<<< Updated upstream:Deities.qmd
 Many gods arose as their domain formed in the world. Unome, for example, manifested from the confluence of the four elements in the material plane, Bolgrod existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac was created after the first warriors were left behind alone and broken in the fields of battle, and Scios was created as clerics of Unai focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation.
+=======
+Many gods arose as their domain formed in the world. Unome, for example, manifested from the confluence of the four elements in the material plane, Bolgrod existed before that in the emptiness before the elements. Some however emerge from the wants and needs of sentient creatures. Dylgrac was created after the first warriors were left behind alone and broken in the fields of battle, and Scios was created as clerics of Unai focused increasingly on craft and diverged from the rest of their sect whose focus was on cataloging and natural conservation. 
+>>>>>>> Stashed changes:Character Creation/Deities.qmd
 
 ### Ascention
 
-Mortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themselves to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs.
+Mortals have ascended to divine status in their death by garnering an extraordinary following and dedicating themself to a single pursuit that no god currently claims as their domain. These ascended mortals are notated in this text with a #Ascendant tag under their name. These Ascendant gods are by far the youngest and most frequently manifest their avatars to directly intervene, they also most frequently have narrow domains as they have not been changed over time by their followers needs.
 
 ## Alignment
 
@@ -914,7 +918,11 @@ Dagger
 
 Battle healers, Would be rescuers, those who have been harmed and continue to be in harm's way are all within the domain of Zehlt. Zehlt empowers their champions with divine might to provide help wherever needed; be it deep within the bowels of the earth, or high in the mountains Zhelt's clerics will find you to provide aid. Unlike #Dylgrac's disciples who focus on helping the wounded, Zhelt's healers carry medicine in one hand and a blade in the other. For Zhelt's chosen it is equally important to heal the wounds, but also punish those who opened them.
 
+<<<<<<< Updated upstream:Deities.qmd
 # Zerderak, Unwelcome Guide
+=======
+# Zerderak, Unwelcome Guide [NEW!]
+>>>>>>> Stashed changes:Character Creation/Deities.qmd
 
 #Zerderak
 
@@ -955,4 +963,8 @@ Meteor Hammer
 
 ## Notable history
 
+<<<<<<< Updated upstream:Deities.qmd
 Zerderak's guidance is seldom appreciated, and even more rarely immediately helpful. Where other gods may open doors for their followers, Zerderak will close them until there is only a single path to take. Zerderak sees the past, present, and future of all sentient creatures and leverages horrible curses to guide them towards their ultimate destiny. Truly Zerderak has the insterest of the accursed at the forefront of her priorities, however she ccares little for the short term pain inflicted upon them.
+=======
+Zerderak's guidance is seldom appreciated, and even more rarely immediately helpful. Where other gods may open doors for their followers, Zerderak will close them until there is only a single path to take. Zerderak sees the past, present, and future of all sentient creatures and leverages horrible curses to guide them towards their ultimate destiny. Truly Zerderak has the insterest of the accursed at the forefront of her priorities, however she ccares little for the short term pain inflicted upon them.
+>>>>>>> Stashed changes:Character Creation/Deities.qmd
